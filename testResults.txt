@@ -1,23 +1,2003 @@
-6.86.76 = Error: Invalid Expression
-(ln(12.10)+18-67.22/91.99) = 19.76247385134169
-(34.26-68.45+log(61.31)+28.39-67.43) = Error: Invalid Expression
-66.67.61 = Error: Invalid Expression
-6.81/55.18/58*tan(93.34)+log(73.21)-76.06 = Error: Invalid Expression
-(77.80+84*25.03+25.01+tan(4.88)-cos(63.65)*80) = 2144.733788350376
-69.18.19 = Error: Invalid Expression
+(tan(6.44)/12*95*5*8.85-5) = 50.38891325554456
+73.9.33 = Error: Invalid Expression
+cos(19.79)*90.53/88.23/85+97*47.12 = 4570.647115232094
+44.82/0 = Error: Invalid Expression
+22-23-57/35.86 = -2.5895147796988285
+62.15+54/69*cos(71.72)-37 = 24.4773979771915
+27.44-sin(95.58)*cos(84.23)/87.78-35 = -7.5508204788964
+39.37*23-tan(6.93)+16.00*7 = 1016.7548096068582
+0+*99 = Error: Invalid Expression
+(log(99.13)-sin(84.77)+log(22.66)+tan(28.17)*sin(19.83)) = Error: Invalid Expression
+tan(26.01)*93-sin(13.04)/79 = 111.86708716417644
+98.79*0+46.60+sin(38.63) = 47.40215059503584
+59*sin(29.98)/10.72+cos(80.20)-79-sin(3.12) = -84.38607375094442
+cos(70.12)/8*78.78/90.93*sin(10.26)/35/6.98 = -1.762126500408459E-4
+5.56/0 = Error: Invalid Expression
+66+*62 = Error: Invalid Expression
+97**48 = Error: Invalid Expression
+23.38.55 = Error: Invalid Expression
+sin(71.43)*log(14.01)+sin(48.13)*tan(46.46)-91/52.71 = Error: Invalid Expression
+56.92.12 = Error: Invalid Expression
+(tan(98.28)-59/53-cos(90.98)*45.10-tan(63.77)*log(8.69)) = Error: Invalid Expression
+67.67.55 = Error: Invalid Expression
+80.21*log(76.63)-ln(78.82) = Error: Invalid Expression
+sin( = Error: Invalid Expression
+log( = Error: Invalid Expression
+ln( = Error: Invalid Expression
+73.29.33 = Error: Invalid Expression
+cos(6.79)/96+sin(1.44)/55*sin(73.32) = -0.006647889489332858
+38.63/0 = Error: Invalid Expression
+(11/56+ln(53.91)+tan(13.94)) = 9.189695449508877
+64++40 = Error: Invalid Expression
+ln(93.69)+log(8.48)+92+99.50 = Error: Invalid Expression
+93-*20 = Error: Invalid Expression
+32*81+50+96/80/27*log(12.45) = Error: Invalid Expression
+65.48.94 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+74/48*cos(21.58)/38/3 = -0.012396384595350217
+34.25.27 = Error: Invalid Expression
+(97.99*92.20+59*14.45*8.39-sin(7.44)+tan(77.46)) = 16184.786582675506
+54.54.86 = Error: Invalid Expression
+33.15-log(5.42)+18-cos(46.86)-50-tan(87.65)*ln(27.00) = Error: Invalid Expression
+(10/9.78*cos(88.14)-66-3.54) = -68.53319445574041
+72+*39 = Error: Invalid Expression
+53.17/48.15+cos(97.25)+cos(31.66)*27+36 = 62.31371856382704
+(48.61/87.98-9-ln(37.91)) = -12.082702994997668
+31+cos(76.91)/67*ln(48.08) = 31.003409611032808
+81.23/0 = Error: Invalid Expression
+(60*cos(90.50)+54.12-cos(49.42)-ln(87.47)/13) = 3.803098387335135
+2+97.22+tan(41.76)-log(66.42)*12 = Error: Invalid Expression
+96.24.84 = Error: Invalid Expression
+10+*24 = Error: Invalid Expression
+10.26.61 = Error: Invalid Expression
+45.36/0 = Error: Invalid Expression
+36+*81 = Error: Invalid Expression
+(11.03*ln(83.76)/16/67+45+43.65+36.16) = 124.85556002789103
+98.48*tan(39.35)*85.43+ln(10.29)+cos(52.68) = -104817.4644749077
+(57-cos(35.83)-tan(65.51)-tan(53.53)/23-58.05) = -0.261713433467274
+(70+log(10.86)/15.60/98) = Error: Invalid Expression
+51//93 = Error: Invalid Expression
+(92+log(86.30)-61.98*77.09) = Error: Invalid Expression
+59*cos(16.72)*tan(86.42) = 1193.4496041773325
+20.59.5 = Error: Invalid Expression
+71+*5 = Error: Invalid Expression
+58/27/92.52/78.18*74.29 = 0.022062935612177405
+sin(72.44)*tan(83.60)-45.71-56.93/30 = -47.10469472238908
+cos( = Error: Invalid Expression
+50+*18 = Error: Invalid Expression
+41.22/0 = Error: Invalid Expression
+tan(33.80)-log(33.61)*95-ln(84.13)+ln(39.21)-ln(76.93) = Error: Invalid Expression
+sin(67.84)/41.48*19.28*2 = -0.8892425919046267
+cos(17.88)*98.75+log(71.51) = Error: Invalid Expression
+(tan(30.92)/84/72+sin(2.52)-tan(89.69)+cos(92.14)) = 6.486989414716126
+(33+cos(46.00)*27+sin(67.88)/87.96/24) = 21.330748238959618
+42.92/0 = Error: Invalid Expression
+tan(74.50)*ln(37.01)*40+cos(21.54)*log(92.77)/85.08 = Error: Invalid Expression
+(50/68+4.97*83*4-24/24) = 1649.775294117647
+ln( = Error: Invalid Expression
+log( = Error: Invalid Expression
+(sin(72.34)-29*sin(62.17)+96.07) = 113.8095391859049
+(66*69-log(13.77)*69.97+tan(5.35)/63*sin(98.48)) = Error: Invalid Expression
+46.47.61 = Error: Invalid Expression
+60.33.84 = Error: Invalid Expression
+55.50.17 = Error: Invalid Expression
+24.12.16 = Error: Invalid Expression
+(43.76-ln(56.52)-sin(62.54)*ln(94.56)) = 41.03434499888427
+87.62/0 = Error: Invalid Expression
+72.71/0 = Error: Invalid Expression
+11+*84 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+43-/66 = Error: Invalid Expression
+21+*50 = Error: Invalid Expression
+ln(97.05)*30.71+97.57*71 = 7067.975199968278
+50.57.91 = Error: Invalid Expression
+75.67*tan(85.26)*66/25/51.07/27.89-tan(15.02) = 0.8874327142495472
+cos(48.62)*22+68.00*log(67.70)-23.63/45 = Error: Invalid Expression
+(ln(77.70)*log(97.52)*51.95+cos(80.91)-69-log(76.80)-30.59) = Error: Invalid Expression
+(43.11*76+99*7-15.32*60.58) = 3041.2744
+(sin(52.40)/48.80-sin(7.43)) = -0.8941369943011099
+cos( = Error: Invalid Expression
+(ln(53.70)+1-97/44.25/84.03/81.95/75) = 4.983408757138582
+42.76*tan(4.63)+tan(18.53)-ln(27.77)*94 = 205.04380824421756
+17.28.18 = Error: Invalid Expression
+(47-41-40+log(96.71)*98*93) = Error: Invalid Expression
+27-29.03*84.58*log(75.46)+ln(66.15)+sin(32.37)-59.76 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+sin(28.28)*27.27-log(31.39)*cos(26.35)-44.20+36.15 = Error: Invalid Expression
+6.92/0 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+0.96/0 = Error: Invalid Expression
+36.14/0 = Error: Invalid Expression
+(sin(44.19)*sin(90.81)/54-tan(24.52)/78.33) = 0.010089539035001538
+28+*99 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+58.21.24 = Error: Invalid Expression
+40.22/0 = Error: Invalid Expression
+52+*24 = Error: Invalid Expression
+30.84/0 = Error: Invalid Expression
+95*/3 = Error: Invalid Expression
+85.34.10 = Error: Invalid Expression
+(log(6.19)/73.99/22.68/59*log(33.56)/90) = Error: Invalid Expression
+sin(3.16)/87.68*5.31*7.15 = -0.007970153423514911
+log( = Error: Invalid Expression
+(95+49*cos(95.88)+ln(38.64)*tan(65.62)) = 90.64390630078806
+63+*93 = Error: Invalid Expression
+sin(37.21)*cos(90.09)*sin(32.98)*6-7/74 = 1.3899165651462173
+36.43/0 = Error: Invalid Expression
+tan( = Error: Invalid Expression
+96-*20 = Error: Invalid Expression
+45+*97 = Error: Invalid Expression
+(cos(8.49)*4.25*64.17*cos(36.40)-96) = -139.4724556100874
+(49*62.08/10.44) = 291.37164750957857
+60.52/0 = Error: Invalid Expression
+log( = Error: Invalid Expression
+(61.06+8.51+cos(6.52)*cos(41.56)+cos(90.92)*cos(57.76)/10.33) = 68.80526067090156
+64.21/0 = Error: Invalid Expression
+sin(14.99)-log(84.41)-log(39.47)-15.50*sin(11.27) = Error: Invalid Expression
+19/57.70-cos(95.79)+ln(28.15)/23.62/34 = 0.3048733163853338
+tan( = Error: Invalid Expression
+(sin(12.15)-49.66/25/4.85) = -0.8140108331584184
+sin(5.23)-94.82*37+ln(51.55)*96.96+log(68.50) = Error: Invalid Expression
+(sin(12.70)+cos(28.62)/26.12+cos(31.27)*87.95+69) = 156.1124443005956
+(ln(38.78)-sin(38.67)-41.41) = -38.57748281280554
+ln(98.01)/83-tan(16.81)+ln(13.85) = 0.7088285016383249
+(cos(81.11)*86+log(7.12)) = Error: Invalid Expression
+34*log(74.46)/53.84-ln(87.48)*91.11*sin(56.09)/29.69 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+(48*69.71-13-sin(27.82)) = 3332.6411361312103
+71/36*75+cos(62.03)*29+64.67 = 232.7525765121024
+ln( = Error: Invalid Expression
+35.92.6 = Error: Invalid Expression
+ln(94.45)*cos(79.31)+cos(61.70)/38 = -3.253343102117614
+(sin(66.04)-sin(43.01)-38.22/89) = 0.3302387593758805
+42+*62 = Error: Invalid Expression
+(sin(63.44)/10.02/42.33*cos(77.63)/96.27) = -8.589829349728284E-6
+44.53.72 = Error: Invalid Expression
+(86/48-42.74) = -40.94833333333333
+(76-sin(26.28)+75+30-74) = 106.08835924524595
+93/65*cos(47.98)/79.06-ln(74.54)+55 = 50.67680351794539
+(ln(73.40)-91*32+87.68-86.87+tan(90.18)/85) = -2906.9097261745396
+(64-8.17-tan(53.18)-39.76/4.41+log(23.50)+22.35) = Error: Invalid Expression
+(log(95.13)+log(8.61)*sin(63.26)+75.02/13.20/27.39) = Error: Invalid Expression
+89.24/0 = Error: Invalid Expression
+(sin(82.32)+cos(25.61)+28+3.19/56.96*tan(55.44)-sin(69.23)) = 29.257178480829854
+(sin(50.42)-45.25+sin(15.29)+62+77*tan(71.15)-ln(65.51)) = -140.67329681797287
+19*+87 = 1653.0
+log(29.13)-ln(63.57)*log(77.18)+39/48.30 = Error: Invalid Expression
+log(62.61)*55.37-14-48.82*sin(19.72) = Error: Invalid Expression
+cos(42.19)*27.00-tan(78.75)/82.17*73*22.88-0.72 = -10.98811137615927
+ln(42.40)+ln(51.61)+86+tan(20.49)-21 = 58.35612196649039
+(57+13.56/47/28.22-34/28*sin(22.34)) = 57.425289116004755
+4+/91 = Error: Invalid Expression
+(log(72.33)/84.29/69.50*sin(33.72)+log(93.18)) = Error: Invalid Expression
+(log(67.68)+1.41+sin(20.43)/2-46) = Error: Invalid Expression
+(ln(89.40)*ln(100.28)/20.03) = 1.0336569428509819
+21.7.6 = Error: Invalid Expression
+(34.72-log(72.42)/39/92/72*tan(29.55)-95) = Error: Invalid Expression
+71.61.82 = Error: Invalid Expression
+3.20/0 = Error: Invalid Expression
+(95*89*log(45.57)-tan(77.23)+37) = Error: Invalid Expression
+95+/76 = Error: Invalid Expression
+30+*39 = Error: Invalid Expression
+99+*15 = Error: Invalid Expression
+24.22.13 = Error: Invalid Expression
+(sin(70.57)/84.18+84) = 84.011799698961
+log( = Error: Invalid Expression
+(6/3.82*99*63+93/3+34) = 9861.335078534034
+log( = Error: Invalid Expression
+3*35.47/41.81/82 = 0.03103762082825325
+sin( = Error: Invalid Expression
+(86.57*17.08-8/41+tan(63.50)-log(86.17)*50) = Error: Invalid Expression
+log( = Error: Invalid Expression
+(tan(100.15)+tan(35.19)-47.79) = -47.4576107492031
+(ln(18.12)*ln(15.67)+84.21/75+80+40-58.21) = 70.88465897448307
+sin( = Error: Invalid Expression
+9.15/0 = Error: Invalid Expression
+(log(40.49)+sin(10.66)*42.79/70+log(73.82)-log(9.72)) = Error: Invalid Expression
+(cos(93.24)+77.79*42.62+ln(48.77)/27.28*sin(53.13)-ln(60.68)) = 3311.876902646454
+(69/84.81/2.65) = 0.3070125674927084
+ln( = Error: Invalid Expression
+(6*5-7.14-ln(89.95)) = 18.36074603960346
+9*13+53.97-tan(54.22)-10/76.67*97 = 157.2617496613064
+(35+sin(93.35)-84/95.26-46.53) = -13.19374194846201
+15+tan(82.95)/33.38*log(75.23)+tan(78.71)+ln(93.50)-log(15.42) = Error: Invalid Expression
+(cos(76.58)+95.87-tan(81.00)*26.20) = 117.49733552860108
+(19.86-51-11-cos(18.44)-76.75) = -119.80729774619708
+42.38/0 = Error: Invalid Expression
+(13/50-66.94/99-22*tan(52.39)-cos(91.20)) = 36.16450236643866
+99.58*61/25.67+sin(9.02)+2+tan(90.10)*ln(26.12) = 233.87606087250364
+12-+49 = Error: Invalid Expression
+ln(36.37)+86.98-89-39.18-ln(35.10) = -41.16445687147292
+cos(2.92)-tan(99.27)*cos(12.19)-21.59+40 = 20.3394304228176
+cos(68.27)-log(49.09)+log(59.27)*48/34.57-ln(92.62)-47.80 = Error: Invalid Expression
+17.52/38.69/10.91 = 0.04150597513100324
+sin( = Error: Invalid Expression
+(67*2.62-43.53-34) = 98.01
+(43/43.75/34.77/77.62/22-28.19+49) = 20.810016553483045
+78-+53 = Error: Invalid Expression
+(tan(93.62)+cos(13.39)+cos(15.49)*98*65.10) = -6228.899451285293
+13+*43 = Error: Invalid Expression
+8.58.26 = Error: Invalid Expression
+tan(29.63)*3.41-tan(33.82)-cos(75.92)-ln(33.77)/35.63 = 15.54841060387254
+22.32/0 = Error: Invalid Expression
+tan(38.57)-60*78 = -4678.81253687509
+76+*0 = Error: Invalid Expression
+sin(50.66)-tan(79.73)/66.88/66+3-sin(65.92)/66 = 3.382987244323168
+ln( = Error: Invalid Expression
+61.35/0 = Error: Invalid Expression
+72-12/72.77-96.34*ln(38.82)/49.69+ln(37.87) = 68.37523612733526
+sin( = Error: Invalid Expression
+78+*83 = Error: Invalid Expression
+2/8-18.66 = -18.41
+32+45*sin(85.04)*67 = -617.1275245455695
+cos( = Error: Invalid Expression
+cos(100.73)*51+21.65-sin(59.35)/50.88/7/61 = 71.64313348705379
+(ln(48.36)/83+log(57.95)/42/86+sin(63.86)-sin(3.41)) = Error: Invalid Expression
+55/25+cos(19.36)-99/55 = 1.272527632597183
+89/21.02/28*log(94.34)/89/52+tan(92.08) = Error: Invalid Expression
+(cos(57.25)-19-43.00-1-30.63) = -92.8660167407998
+(96*cos(67.32)/26.59-log(9.99)/4) = Error: Invalid Expression
+tan( = Error: Invalid Expression
+16.55+tan(7.69)-ln(58.73)*tan(61.30)/82.74 = 23.856887703882922
+6.40.30 = Error: Invalid Expression
+(log(65.04)*tan(5.45)-76/31*71+ln(95.23)) = Error: Invalid Expression
+10.73.65 = Error: Invalid Expression
+(log(10.82)+74.80-65+69.58-cos(1.05)) = Error: Invalid Expression
+64.12/75.41/20-82/56/75 = 0.022990445879983078
+18.57/0 = Error: Invalid Expression
+11.59/0 = Error: Invalid Expression
+22+/89 = Error: Invalid Expression
+16.33-75/80.29+log(25.14)*ln(29.01)-tan(20.39) = Error: Invalid Expression
+29+*89 = Error: Invalid Expression
+log( = Error: Invalid Expression
+46/+20 = 2.3
+57.42.98 = Error: Invalid Expression
+45.62*tan(83.34)+7+ln(37.45)+40.31-log(54.08) = Error: Invalid Expression
+tan(44.30)/90*cos(38.33)-log(8.74)+log(33.39)/70+10 = Error: Invalid Expression
+(ln(34.66)/87/70.76/98.87) = 5.825275205159952E-6
+(log(28.35)+ln(89.73)-cos(76.68)-21) = Error: Invalid Expression
+72+*58 = Error: Invalid Expression
+(cos(16.69)-ln(53.53)+tan(58.60)/69/34*tan(95.67)) = -4.541035122314209
+(ln(16.55)/23/66) = 0.0018487391975119051
+tan(60.59)+ln(51.81)-sin(13.89)+86.96 = 91.19745821507706
+cos( = Error: Invalid Expression
+(48-16.14*1*log(10.67)) = Error: Invalid Expression
+tan( = Error: Invalid Expression
+log( = Error: Invalid Expression
+(tan(26.78)*88/10-sin(87.56)/40) = -114.8549610661602
+81.24/0 = Error: Invalid Expression
+45.66.66 = Error: Invalid Expression
+14.05/0 = Error: Invalid Expression
+28.89.13 = Error: Invalid Expression
+(5.87+36+tan(65.99)-89*ln(20.58)+40.27) = -187.00790021914534
+(87.91+cos(4.56)/45) = 87.90662666981115
+(23*62.37*tan(39.24)/49.81-66) = 896.6483719475945
+19.91/0 = Error: Invalid Expression
+(sin(85.93)+33*cos(59.98)/66/31-sin(23.99)) = -4.18798378635E-5
+ln( = Error: Invalid Expression
+sin( = Error: Invalid Expression
+(cos(90.48)+log(88.34)*log(91.19)) = Error: Invalid Expression
+(81+57*41.63-cos(7.63)) = 2453.6878864505857
+tan(88.74)/8/94.06+ln(35.13)+log(13.96) = Error: Invalid Expression
+98*ln(48.71)/95.32+sin(62.42)+16.34+log(86.37)*61.44 = Error: Invalid Expression
+cos(74.53)+ln(89.14)/64+sin(1.25)*18*62 = 1059.7831779207434
+ln( = Error: Invalid Expression
+log(23.70)/13.37*69+14*sin(76.47)-sin(74.76) = Error: Invalid Expression
+48+*88 = Error: Invalid Expression
+(32*cos(78.90)-85+96.14+log(87.82)/18.85) = Error: Invalid Expression
+10.22*sin(72.55)+74.57+88 = 159.61459175809736
+61-/40 = Error: Invalid Expression
+tan(10.06)-42*93.11+26.91+79.75-7 = -3810.222856509979
+47.56/0 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+sin(33.71)-sin(23.59)+cos(26.85)-sin(67.32)+cos(8.14)*42 = -9.271382029410482
+13.31/0 = Error: Invalid Expression
+(51.33+log(29.05)/86/47.94) = Error: Invalid Expression
+64.95+76-6.40/52 = 140.82692307692307
+35-cos(64.45)/41*cos(63.53) = 35.00088435729129
+86.12.27 = Error: Invalid Expression
+66.76.48 = Error: Invalid Expression
+3+*52 = Error: Invalid Expression
+67+*33 = Error: Invalid Expression
+16.53/0 = Error: Invalid Expression
+(20/10-log(37.35)) = Error: Invalid Expression
+65.69.90 = Error: Invalid Expression
+92.00/0 = Error: Invalid Expression
+39.73/0 = Error: Invalid Expression
+59.77/0 = Error: Invalid Expression
+32.98.98 = Error: Invalid Expression
+82.24.52 = Error: Invalid Expression
+ln(38.63)*33.43*log(98.22)*86.94-81.70*54.12 = Error: Invalid Expression
+1.24.79 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+40.06/0 = Error: Invalid Expression
+(cos(54.50)+ln(57.22)+94.49) = 98.07701338060886
+21**54 = Error: Invalid Expression
+(36-91.64/90) = 34.98177777777778
+82.51/0 = Error: Invalid Expression
+23.52/0 = Error: Invalid Expression
+(77.41-11+93.99) = 160.4
+sin( = Error: Invalid Expression
+ln( = Error: Invalid Expression
+(32.74*59.99/45.26+3-54.08+73+32.19) = 97.50532920901458
+(ln(60.64)*71*78.15) = 22776.95712550354
+ln( = Error: Invalid Expression
+44.37.54 = Error: Invalid Expression
+tan(84.07)/63.44-log(92.19) = Error: Invalid Expression
+(92.41/57/50/7-69.92) = -69.9153679197995
+(cos(85.27)+65.50-tan(72.40)) = 64.45389193141227
+ln(98.35)+sin(14.09)+47.13-cos(70.09)*19-sin(82.90)/77 = 42.042434025440336
+(cos(50.48)+66-log(27.39)*ln(46.61)/41-log(70.77)-sin(44.78)) = Error: Invalid Expression
+log( = Error: Invalid Expression
+log( = Error: Invalid Expression
+91.58.86 = Error: Invalid Expression
+28.58-sin(61.59)/60.12*38.69/72 = 28.588458916999596
+tan( = Error: Invalid Expression
+17.33.94 = Error: Invalid Expression
+(tan(98.41)-54+85.44) = 33.070424511104854
+(log(7.47)/7.79*92.07) = Error: Invalid Expression
+tan( = Error: Invalid Expression
+(59-ln(15.40)-77.27*69.13/51) = -48.473094960399976
+31.93.38 = Error: Invalid Expression
+25/*82 = Error: Invalid Expression
+63-tan(22.63)/61-sin(74.89)+82.03-70.84*sin(9.25) = 133.1861186705298
+ln( = Error: Invalid Expression
+(ln(39.30)-log(24.35)*tan(7.03)) = Error: Invalid Expression
+35+tan(43.85)-sin(95.46) = 33.93052802616528
+62.31/90.30/57.18-tan(49.69)-ln(22.38) = -2.447369184919174
+34.90*59.96-cos(3.42) = 2093.5654943580603
+log(69.23)-77.07+20 = Error: Invalid Expression
+54.54/0 = Error: Invalid Expression
+(cos(58.59)/92.06-cos(44.45)/41-93/3+35.98) = 4.953304457011526
+log( = Error: Invalid Expression
+ln( = Error: Invalid Expression
+cos( = Error: Invalid Expression
+(61.52-ln(28.73)/35.34+40.83*cos(97.92)) = 26.209533196817716
+tan(20.19)/14.27+69/86*ln(98.71) = 3.983245638330594
+19/90*11.06-87.70/21.17-log(80.05)-ln(80.87) = Error: Invalid Expression
+88.91/0 = Error: Invalid Expression
+1.29/0 = Error: Invalid Expression
+78.89+96+tan(18.03)-5-cos(7.95)+83.02 = 251.93511085071214
+(87.36-14.59/69.44+tan(51.65)-11.10) = 81.35595137450721
+cos( = Error: Invalid Expression
+cos(75.19)-ln(34.98)-sin(21.40)/65 = -2.5849508855868515
+23+*42 = Error: Invalid Expression
+(cos(60.46)+88.71-log(30.20)-log(46.70)-tan(69.74)) = Error: Invalid Expression
+log(55.70)+sin(10.69)-tan(33.56) = Error: Invalid Expression
+5*cos(12.21)-25 = -20.314154020503835
+(cos(37.08)+12+ln(55.07)) = 16.822999289266225
+sin( = Error: Invalid Expression
+95.25/0 = Error: Invalid Expression
+35+*44 = Error: Invalid Expression
+84.92+78.59/90.32 = 85.79012843224092
+cos(40.92)-tan(49.35)*cos(65.00)/29.60/60.89-log(28.19) = Error: Invalid Expression
+77/20.39*log(79.70)+ln(49.94) = Error: Invalid Expression
+65+*91 = Error: Invalid Expression
+(90+cos(29.86)-cos(55.65)*80) = 40.20262987048476
+66.88/0 = Error: Invalid Expression
+76.94+ln(53.71)+ln(85.38)*tan(97.31)*log(56.50)+sin(52.71) = Error: Invalid Expression
+52.12+sin(85.83)/10 = 52.03547684260088
+(log(93.50)/28.10+79+35.00-cos(31.73)) = Error: Invalid Expression
+55++69 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+sin( = Error: Invalid Expression
+cos( = Error: Invalid Expression
+cos(63.99)/95.40+38.79 = 38.79420374994525
+cos(92.30)+33*tan(14.38)*log(70.21)-ln(52.36)-68.48 = Error: Invalid Expression
+70+*33 = Error: Invalid Expression
+cos(91.91)-36.76-15-ln(10.40)/90*34 = -53.33864853289607
+(log(54.43)*cos(20.98)-96-46+sin(36.29)) = Error: Invalid Expression
+16.32/0 = Error: Invalid Expression
+3.74/0 = Error: Invalid Expression
+11-10+51.80*ln(90.90)+ln(10.84)/70 = 234.63961438981627
+log(29.22)*13.73-ln(78.28)-ln(94.13)/40.64 = Error: Invalid Expression
+73.89+57+38.89/84.77 = 131.34877079155362
+65.02*78.61+16*33+log(35.88)/92 = Error: Invalid Expression
+92+*37 = Error: Invalid Expression
+49+*9 = Error: Invalid Expression
+55.83*37.52/52.90*39*sin(38.40)/41.16 = 24.196592096656534
+(log(54.64)+sin(73.60)+log(68.13)/97.38) = Error: Invalid Expression
+(2-56+ln(54.03)-ln(36.21)) = -53.59979587592157
+36/+69 = 0.5217391304347826
+(ln(50.46)*cos(50.93)/57*sin(64.63)+sin(9.95)) = -0.44864412551070626
+(84+tan(49.60)+tan(25.00)/95.39/25.22) = 83.21501720204262
+17.46.10 = Error: Invalid Expression
+ln(13.90)/36.71*56.86*32.75 = 133.5061640423061
+(6.32*cos(55.48)*11.87+5.11/86.06-87.82) = -51.65483402847836
+log( = Error: Invalid Expression
+(ln(75.15)/32.37-log(31.04)-65*tan(42.55)-cos(42.42)) = Error: Invalid Expression
+(log(53.01)/9.35/72.42*cos(72.91)/71-21*sin(70.25)) = Error: Invalid Expression
+91+*36 = Error: Invalid Expression
+tan( = Error: Invalid Expression
+(cos(1.43)-27-sin(87.71)*sin(39.00)) = -26.616933820373024
+log( = Error: Invalid Expression
+94-sin(35.10)/34.31+11.78+log(82.24)+sin(29.36) = Error: Invalid Expression
+44+*13 = Error: Invalid Expression
+84-/37 = Error: Invalid Expression
+23-*17 = Error: Invalid Expression
+sin(17.65)*log(44.21)/32*log(83.67)-log(85.35)*99.10*8 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+24-tan(15.81)-52-94+tan(28.81)-1 = -122.50883859527278
+32*sin(10.85)-cos(45.76) = -31.456095008920652
+log(92.43)*23/79.39/74-log(39.13) = Error: Invalid Expression
+(71/94+46+log(82.41)/42) = Error: Invalid Expression
+(32.62/59-cos(7.04)*cos(3.48)/83) = 0.5611439239118837
+(sin(81.78)*44/87.38-83.17/91/51.52) = 0.0318250590152817
+41.88.66 = Error: Invalid Expression
+(16*cos(21.70)/8/93.68-ln(67.39)*65) = -273.7027323180575
+61.53.5 = Error: Invalid Expression
+13.73.2 = Error: Invalid Expression
+9+*82 = Error: Invalid Expression
+53.06/0 = Error: Invalid Expression
+(cos(84.85)*log(9.68)-54.00-43) = Error: Invalid Expression
+ln( = Error: Invalid Expression
+cos( = Error: Invalid Expression
+6.76.11 = Error: Invalid Expression
+38+*14 = Error: Invalid Expression
+45*+87 = 3915.0
+(71.30*25.86*log(38.71)/32) = Error: Invalid Expression
+sin( = Error: Invalid Expression
+(ln(2.33)-93/63+sin(99.11)/15) = -0.6962419591043426
+26.68/0 = Error: Invalid Expression
+11+*56 = Error: Invalid Expression
+(13+70.77+log(90.56)-33.71-cos(85.55)/4) = Error: Invalid Expression
+(17*tan(80.81)+sin(29.40)) = -21.110780215422224
+(ln(39.82)*48+tan(78.21)-37.77/41.55) = 175.5983813912157
+25+*44 = Error: Invalid Expression
+1+*20 = Error: Invalid Expression
+95.33*99/28+cos(74.72)+9+81/95 = 347.6909628612743
+9**17 = Error: Invalid Expression
+ln( = Error: Invalid Expression
+(17+66.62*42.40/35) = 97.70537142857142
+41+*8 = Error: Invalid Expression
+(log(1.59)*8+tan(57.74)/49.58) = Error: Invalid Expression
+42+33.95-36-ln(90.89)*29.47+25*19.67 = 398.8006149676689
+cos( = Error: Invalid Expression
+31/85.62*cos(45.48)-24/3.97 = -6.018899024036919
+tan(38.94)*ln(82.65)*sin(73.31)/60+sin(85.56)+ln(65.41) = 3.3218629121289873
+40.19-log(84.60)/76 = Error: Invalid Expression
+log(14.03)*log(95.13)+cos(57.11)*tan(39.84)+sin(17.54)*6 = Error: Invalid Expression
+cos(38.99)/51/69*ln(62.99)/96.70/1 = 3.3635377416716557E-6
+cos( = Error: Invalid Expression
+91.42.28 = Error: Invalid Expression
+88.89.25 = Error: Invalid Expression
+43+*5 = Error: Invalid Expression
+tan(46.20)/37*14.77-log(40.70)/67.79-90.50-log(64.71) = Error: Invalid Expression
+64.11*64/98.23*85.53+ln(96.93)+tan(12.67) = 3577.242494730746
+86.41/0 = Error: Invalid Expression
+log(11.83)*40.21-log(8.33)+32.91-ln(99.43) = Error: Invalid Expression
+(67.81*ln(14.26)+cos(92.55)+93.18*48) = 4652.715612826632
+log( = Error: Invalid Expression
+sin(31.89)-tan(88.45)*89.20 = -46.59658732669139
+tan( = Error: Invalid Expression
+(log(53.36)*34.13*sin(49.44)-58.58+log(61.01)*tan(12.30)-tan(13.80)) = Error: Invalid Expression
+15.48.58 = Error: Invalid Expression
+(49+cos(47.91)/46.01) = 48.984642401243406
+97.95/0 = Error: Invalid Expression
+38/71/88.10*log(77.03)-79.84 = Error: Invalid Expression
+39.45/0 = Error: Invalid Expression
+cos(96.74)*24.20-cos(50.90)/43.20*98*84 = -172.73981795195328
+sin(81.55)*sin(45.49)*log(24.15)+44*58.99 = Error: Invalid Expression
+(ln(65.47)+cos(17.65)/16.21*tan(34.41)) = 4.178266458848721
+ln(25.21)*9.62-cos(50.33) = 30.048136465153508
+(ln(3.95)+75-5-70*log(11.52)+36*cos(1.98)) = Error: Invalid Expression
+18+log(74.64)*8-log(91.88) = Error: Invalid Expression
+9+*55 = Error: Invalid Expression
+33*33.14-28+ln(97.25) = 1070.1972849824986
+65+*86 = Error: Invalid Expression
+(60.42*37+log(36.30)+sin(97.31)/84-ln(76.50)) = Error: Invalid Expression
+41-+41 = Error: Invalid Expression
+53.92/0 = Error: Invalid Expression
+76+*54 = Error: Invalid Expression
+55.5.43 = Error: Invalid Expression
+(10-43*67.44-cos(87.88)+ln(77.54)-log(54.75)*ln(54.23)) = Error: Invalid Expression
+sin(4.07)/10.29/61.89/87.78/92 = -1.5567990205524287E-7
+77.92/0 = Error: Invalid Expression
+(43.12/22.27+ln(91.38)/21*57.21*93) = 1145.8569355833997
+85/*62 = Error: Invalid Expression
+4.30.49 = Error: Invalid Expression
+76+*26 = Error: Invalid Expression
+34+*93 = Error: Invalid Expression
+tan(31.61)+38/49.38+log(13.11)+ln(41.92)-ln(34.91) = Error: Invalid Expression
+38+*5 = Error: Invalid Expression
+2+cos(51.57)*89.59 = 25.574999174816792
+(0+84.70-76+cos(72.87)) = 7.882286601795348
+71.84/0 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+sin( = Error: Invalid Expression
+(tan(87.02)-sin(85.71)-ln(23.16)/26.80+ln(20.13)) = 2.2776095950677586
+54.67-sin(24.75)-log(78.87)-tan(91.91) = Error: Invalid Expression
+(cos(31.55)/56-72-73+tan(41.90)+53) = -90.2008223172312
+33.34-40/59.44*tan(88.66)/56.44/44.98 = 33.3397788011856
+(76.12+67.53-82.06+log(57.55)+log(14.33)-39.34/69.03) = Error: Invalid Expression
+(19*3.87-13*22) = -212.47
+77.14/0 = Error: Invalid Expression
+(cos(48.98)-0/28.72-64/45.91*ln(45.79)+tan(95.02)) = -4.0754248259469925
+sin(36.96)+26+ln(90.16)*tan(25.70)-ln(28.82)*tan(58.63) = 34.1956041765145
+(log(36.42)+log(92.20)+41) = Error: Invalid Expression
+cos(21.87)-50.08*log(94.16)/18.79+41.77 = Error: Invalid Expression
+59.39/17.98/26.28*7.11+76 = 76.89365086016426
+(cos(97.60)*cos(32.36)-cos(33.57)-60) = -60.02276980182608
+39.41.51 = Error: Invalid Expression
+(1+sin(50.96)*ln(51.16)+sin(40.34)*88-tan(80.31)+57) = 107.71099912766554
+37.41.38 = Error: Invalid Expression
+23//7 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+cos( = Error: Invalid Expression
+37+*53 = Error: Invalid Expression
+67.83/0 = Error: Invalid Expression
+97.79.25 = Error: Invalid Expression
+8.97/0 = Error: Invalid Expression
+49.38/0 = Error: Invalid Expression
+(log(50.65)*sin(91.89)+ln(12.94)/17.85-ln(29.61)-11.93) = Error: Invalid Expression
+(71-67.77*38) = -2504.26
+cos(14.39)*cos(93.25)+log(45.28)-99.69 = Error: Invalid Expression
+51.61.78 = Error: Invalid Expression
+(sin(30.21)+ln(51.75)+cos(29.51)/14.36) = 2.9893508486303784
+log(57.20)+tan(34.34)+tan(23.90) = Error: Invalid Expression
+cos(60.54)-25.42/5.49*tan(28.72)+cos(12.29)/5.85 = -2.7076869514642867
+(cos(30.45)-tan(94.10)/93*3/31/53.26/51) = 0.5686550312065385
+(cos(43.53)*50.14*55.51) = 2503.401064761793
+65.35*1.13+sin(14.42)*tan(69.59)/24.71-20.64 = 53.22548352035571
+14-17/37*log(35.06) = Error: Invalid Expression
+(ln(73.65)+3.93+ln(9.31)*72.15/84.40+sin(14.87)/13) = 10.193763648232075
 97.25/0 = Error: Invalid Expression
-4.62.78 = Error: Invalid Expression
-(87.31-sin(38.66)*ln(99.28)+cos(25.31)/95-26/91.65) = 83.26773576605336
+68++42 = Error: Invalid Expression
+73+sin(3.00)+21*14.09/64-63-69.29 = -54.52559874194012
+(17.11/87-log(30.35)+ln(75.67)/35.32-60.66) = Error: Invalid Expression
+cos( = Error: Invalid Expression
+94.36/0 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+33.14-log(20.35)+tan(63.18)/71 = Error: Invalid Expression
+58.29/0 = Error: Invalid Expression
+75+*51 = Error: Invalid Expression
+15.28.56 = Error: Invalid Expression
+47*log(49.03)/7-cos(72.43)+16.62+25/3 = Error: Invalid Expression
+40*log(26.91)/68 = Error: Invalid Expression
+tan( = Error: Invalid Expression
+2.00/0 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+40.29.31 = Error: Invalid Expression
+56.46*sin(29.07)+21 = -19.33106720400608
+54.69.12 = Error: Invalid Expression
+32-+57 = Error: Invalid Expression
+0/+98 = 0.0
+(38*ln(22.29)*53.03+27.24/59*cos(3.64)+2) = 6256.867418923421
+ln( = Error: Invalid Expression
+27+*69 = Error: Invalid Expression
+60.04/0 = Error: Invalid Expression
+69/+69 = 1.0
+25.76.5 = Error: Invalid Expression
+(39/8.14/11-34.95-tan(7.13)*20) = -57.13536599733317
+69+*76 = Error: Invalid Expression
+10.91/0 = Error: Invalid Expression
+95*56.30-65.24*tan(91.82)+log(34.16) = Error: Invalid Expression
+(log(9.60)-sin(86.41)*63.95-63.41) = Error: Invalid Expression
+ln(97.14)*7.20+82*cos(22.42) = -41.62610120427929
+17+*97 = Error: Invalid Expression
+(82*47-35.71+log(84.36)-log(34.15)+31.92) = Error: Invalid Expression
+(40/32.36*ln(7.88)*27.12*log(4.54)-log(68.84)) = Error: Invalid Expression
+69*ln(14.98)/24/9.69 = 0.8030762060893794
+cos( = Error: Invalid Expression
+11.88/0 = Error: Invalid Expression
+74+*47 = Error: Invalid Expression
+87++50 = Error: Invalid Expression
+62.54/0 = Error: Invalid Expression
+95+7.82/39 = 95.20051282051283
+38+*90 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+84.14.31 = Error: Invalid Expression
+72+*29 = Error: Invalid Expression
+10.22.3 = Error: Invalid Expression
+tan(82.09)*log(22.38)+18*log(83.41)*93.40*69.77-87 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+log( = Error: Invalid Expression
+cos(55.95)+6.59*tan(23.20)+sin(56.55)-86*sin(1.84) = -64.67003114316341
+(40-log(34.98)-tan(67.76)-75.72+86) = Error: Invalid Expression
+(tan(49.70)/72+93*tan(12.79)*46.12/60.34/52) = 0.30208387571892215
+cos( = Error: Invalid Expression
+88*/75 = Error: Invalid Expression
+0**49 = Error: Invalid Expression
+61+log(59.12)-ln(88.56)*ln(73.12) = Error: Invalid Expression
+ln(98.63)+tan(16.56)*sin(15.80)+73/57.43/45/69.14 = 4.486732698421566
+tan(66.91)*97.75*84+tan(42.89)/20/56.69*tan(39.99) = 11161.831511998575
+(37+85*sin(74.24)-28.88*52.56) = -1558.8006463857016
+cos( = Error: Invalid Expression
+87.58.24 = Error: Invalid Expression
+27+*72 = Error: Invalid Expression
+(88.60-tan(40.70)*sin(6.67)*25) = 89.93581243585065
+60+*55 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+78.92/0 = Error: Invalid Expression
+(log(95.20)+sin(73.82)-45-tan(66.82)*ln(52.54)+82.97) = Error: Invalid Expression
+94.96/0 = Error: Invalid Expression
+ln(78.03)*10.86*cos(87.61)*sin(52.31)/9.89/93 = 0.0429320630136301
+9+*94 = Error: Invalid Expression
+99+*39 = Error: Invalid Expression
+66+*45 = Error: Invalid Expression
+22/92.02*25.51+cos(8.58) = 5.434994200261882
+(21.33/88.72*ln(50.28)) = 0.9418684117988195
+68.94.97 = Error: Invalid Expression
+(80+log(81.24)/39.32*50.25) = Error: Invalid Expression
+18-+10 = Error: Invalid Expression
+12+*53 = Error: Invalid Expression
+92+/10 = Error: Invalid Expression
+cos(83.34)*sin(36.66)*37+41+tan(10.70)*57.57 = 232.86436557720492
+68.46/0 = Error: Invalid Expression
+1.72.5 = Error: Invalid Expression
+67+*57 = Error: Invalid Expression
+ln( = Error: Invalid Expression
+(19/59.86*ln(51.14)) = 1.2488602142899727
+(34/22/81.24) = 0.01902332035271474
+22.71/0 = Error: Invalid Expression
+3-+67 = Error: Invalid Expression
+cos(21.31)*51.74*25.21/39.92/84.46*65.19 = -19.59186618629364
+17+*16 = Error: Invalid Expression
+(42.93-sin(37.92)/82.86-46/95.55+23*7) = 203.44593248707983
+(29.99+sin(40.38)+tan(93.91)*cos(1.94)+tan(93.62)+82) = 111.8356130224328
+63+*37 = Error: Invalid Expression
+12*tan(5.56)/91 = -0.11640254586909318
+49+*49 = Error: Invalid Expression
+86.27/32.15/22.41 = 0.11973936874159849
+tan( = Error: Invalid Expression
+55+*46 = Error: Invalid Expression
+34.61.29 = Error: Invalid Expression
+46.88.3 = Error: Invalid Expression
+(tan(39.99)/10.18*ln(59.65)/38) = -0.012048093817139302
+cos( = Error: Invalid Expression
+60.92/49-86.29*sin(64.10)-73 = -154.1248702715676
+35+/38 = Error: Invalid Expression
+sin(99.72)+94.17/47.27*47 = 92.90716124677479
+93.49/45/63.90/26.31-2.16-23 = -25.158764249087678
+18/*3 = Error: Invalid Expression
+29.43+30.89*log(53.60)+97/48/42.44/84.70 = Error: Invalid Expression
+cos(67.96)/90/55/52/2.54*72.62 = 4.4861110068121856E-5
+18.85/0 = Error: Invalid Expression
+41.55+log(78.61)*tan(57.14)*cos(30.41)+log(57.02) = Error: Invalid Expression
+97+cos(6.96)*cos(14.43)-sin(18.37) = 97.23634952757358
+(cos(11.57)-sin(23.87)-log(49.60)/41.13) = Error: Invalid Expression
+81+*57 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+ln( = Error: Invalid Expression
+log( = Error: Invalid Expression
+36+/78 = Error: Invalid Expression
+32+*42 = Error: Invalid Expression
+(ln(68.42)-27.68-cos(64.85)*log(21.91)+11.67*ln(69.19)) = Error: Invalid Expression
+tan(77.63)-ln(59.53)-64+97.35+92.70*28.21-4 = 2639.044637688317
+sin( = Error: Invalid Expression
+36/53.87-65.79-68.36+18.05-ln(3.43)/82.88 = -115.44659614677032
+(57.40-85.63*73.87+ln(50.62)+97.74) = -6166.423753244883
+37++83 = Error: Invalid Expression
+(24-29*18.28) = -506.12
+(33.76+cos(96.58)+ln(48.69)/53+95.75) = 128.89335786379334
+93.45-cos(69.48)+sin(85.26)/15+tan(68.02) = 90.54677034827405
+28+*47 = Error: Invalid Expression
+(60.90/3/67.46) = 0.30091906314853245
+12.47.68 = Error: Invalid Expression
+33+52.69+log(49.54) = Error: Invalid Expression
+3-46.21/99*cos(66.40)+28-ln(38.58)+11.76 = 39.532209779219684
+5+*38 = Error: Invalid Expression
+98+*81 = Error: Invalid Expression
+30*tan(84.39)*42+sin(76.97)/71.15+log(41.69) = Error: Invalid Expression
+87.31/0 = Error: Invalid Expression
+10.45.40 = Error: Invalid Expression
+tan(60.05)/40.92+72/10.80-sin(57.70) = 5.76255057578869
+51.22/0 = Error: Invalid Expression
+(31.04+tan(63.08)/95.67+73.50*63) = 4661.542648363765
+16.58.67 = Error: Invalid Expression
+75*64+sin(88.22)*37-tan(43.12) = 4810.514571627533
+23.05*4.61-sin(48.14)/24.26/84.86-cos(40.31) = 107.12336362302851
+83.79/0 = Error: Invalid Expression
+96+/81 = Error: Invalid Expression
+9*sin(62.68)-sin(48.81)-57.10/54 = -1.4254799353094414
+22*+13 = 286.0
+55.81/0 = Error: Invalid Expression
+78.22/0 = Error: Invalid Expression
+0.97.44 = Error: Invalid Expression
+89.52.96 = Error: Invalid Expression
+sin(81.61)*28.20/19/72+54.86/65.57-log(2.04) = Error: Invalid Expression
+17.56/0 = Error: Invalid Expression
+cos(16.82)-45.55+tan(5.85) = -46.4553182574497
+cos(65.33)/68.98/73*6.84 = -0.0010867210438428815
+(31+sin(70.76)+46.51/60-73.52+sin(79.03)*ln(68.84)) = -42.739855603997064
+6//59 = Error: Invalid Expression
+log( = Error: Invalid Expression
+(sin(31.27)/42.27*cos(65.67)/63.29+cos(50.44)/25+43) = 43.03944428682689
+15/41-14.18-8.23-16.79-12.30+67.07 = 15.93585365853659
+(ln(78.34)-14.32*0.54) = -3.371741671762315
+72/90.88*19.09*sin(98.93)/60*39.50 = -9.952181472083312
+95*53/39/40.10-78.87 = -75.6504846857216
+ln(31.35)+40+log(82.13)/2.33 = Error: Invalid Expression
+23.94-sin(77.77)+34+8.33-ln(97.21)/91.69*log(97.06) = Error: Invalid Expression
+32+*44 = Error: Invalid Expression
+86.74+43/71 = 87.3456338028169
+5.56/0 = Error: Invalid Expression
+6+*33 = Error: Invalid Expression
+sin(18.50)+66.40+log(29.71) = Error: Invalid Expression
+(ln(71.96)*27+cos(62.82)+42) = 158.45491079838993
+sin( = Error: Invalid Expression
+(57+99.71*ln(72.01)/34.31) = 69.42903603545852
+14+*71 = Error: Invalid Expression
+49+*21 = Error: Invalid Expression
+42.88/0 = Error: Invalid Expression
+(44/40+sin(75.44)*25.36+72.20-cos(37.93)/12.92) = 74.28379370287334
+47-+68 = Error: Invalid Expression
+15.83/0 = Error: Invalid Expression
+86+*65 = Error: Invalid Expression
+(80+log(2.05)*34.33) = Error: Invalid Expression
+64*+30 = 1920.0
+(tan(41.94)-tan(41.38)-40.40) = -39.03713205556772
+log( = Error: Invalid Expression
+ln(20.08)*5.48-log(82.79) = Error: Invalid Expression
+53*ln(43.38)+23*65 = 1694.8099207861326
+cos(57.96)/45.64-sin(2.39) = -0.6793240562824945
+tan( = Error: Invalid Expression
+cos(38.23)/74/96*16 = 0.001942247156162992
+tan(28.43)+80.65+log(98.76)-14.38/68.46+cos(86.24) = Error: Invalid Expression
+95.70/0 = Error: Invalid Expression
+sin(71.24)/4.79+ln(82.89)+tan(57.95)/47/1 = 4.71938648971985
+96.53/0 = Error: Invalid Expression
+83**13 = Error: Invalid Expression
+(48.49/83.23/89.80*38.02/21) = 0.011745966844257542
+38+*13 = Error: Invalid Expression
+ln(10.10)-sin(24.49)+sin(13.68)-log(26.09)-26+34 = Error: Invalid Expression
+tan(35.51)+34.71/5*47.61+63.22*70*sin(65.49) = 2388.9852963020494
+59**82 = Error: Invalid Expression
+(24+47.81-cos(28.01)/54*72.90) = 73.11311011135746
+(cos(45.13)*tan(66.27)+tan(28.60)+ln(56.35)-88.46) = -83.96526833939068
+99/93.91*ln(52.32) = 4.171871920005808
+71.24/0 = Error: Invalid Expression
+33.50/0 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+72.35.93 = Error: Invalid Expression
+31+*46 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+log( = Error: Invalid Expression
+(25.50-tan(45.76)*ln(61.46)*97-70) = 1858.6129771626204
+52.79/0 = Error: Invalid Expression
+81**3 = Error: Invalid Expression
+29.53*57.53/80*tan(33.17)+7.25/51+21.77 = -92.65452637977918
+15+*26 = Error: Invalid Expression
+tan(87.59)-96*98 = -9408.393158091387
+(67.80/51.83*61.88*67/27.09) = 200.20023720960143
+19/*43 = Error: Invalid Expression
+82+*53 = Error: Invalid Expression
+(70.82/35/65*96-56*cos(28.80)) = 51.42788178957891
+18+*82 = Error: Invalid Expression
+ln( = Error: Invalid Expression
+18*+23 = 414.0
+(64+cos(8.15)*log(32.39)+37+cos(4.42)*96) = Error: Invalid Expression
+(67-cos(4.35)/58.50/38) = 67.00015947326364
+log( = Error: Invalid Expression
+43.55-66.51/69.18/92.18/43 = 43.5497574500269
+(53.57-46*7.13*81-66.75+sin(27.95)+39.85) = -26539.391322531854
+log( = Error: Invalid Expression
+ln(12.01)*32.05-sin(9.61) = 79.85212011614581
+sin( = Error: Invalid Expression
+tan( = Error: Invalid Expression
+26.70.86 = Error: Invalid Expression
+93.17.88 = Error: Invalid Expression
+(ln(84.35)*94/87*sin(59.69)/79*tan(48.31)) = 3.901599749310494E-5
+64//4 = Error: Invalid Expression
+52.95+87.58*cos(82.77)+1-55.51/22.33 = 92.07794421055078
+(log(24.00)+log(72.93)+cos(19.73)) = Error: Invalid Expression
+40+*32 = Error: Invalid Expression
+(sin(46.30)*ln(34.90)/27*23-4+log(56.54)*sin(49.92)) = Error: Invalid Expression
+sin(77.55)-sin(47.30)/87.09-7.10/9.37/82+ln(19.61) = 3.8047358580591295
+34.5.23 = Error: Invalid Expression
+(tan(38.56)/65-tan(71.90)/77.82-cos(27.27)) = 0.5593401063471652
+28+*36 = Error: Invalid Expression
+31.46-74.40*93.29-97.35*ln(31.30)*log(75.58)/68.36 = Error: Invalid Expression
+23.96/0 = Error: Invalid Expression
+14.71-sin(1.41)+36.78/61+45 = 59.32585071865828
+37.57.70 = Error: Invalid Expression
+sin(97.77)+log(81.67)+44-16*sin(79.82)*48.22*tan(35.23) = Error: Invalid Expression
+47*ln(95.16)*64.12+log(70.82)/53.55 = Error: Invalid Expression
+70++52 = Error: Invalid Expression
+(tan(15.13)/60-33.64-90-52.48-sin(15.99)*ln(14.70)) = -175.38280950309814
+96.12*27+log(23.01)+cos(84.06)-40/61 = Error: Invalid Expression
+28//51 = Error: Invalid Expression
+(sin(98.35)-sin(5.62)/13/58.42/96.81) = -0.8195430543107708
+75.12/0 = Error: Invalid Expression
+61/+78 = 0.782051282051282
+(5+25.58*ln(45.35)/68+47.06-12.68-sin(15.93)) = 41.035108168276494
+3+*83 = Error: Invalid Expression
+12.21/0 = Error: Invalid Expression
+sin(19.62)-82*tan(78.88)-79.36+sin(24.19)/88 = -107.69611086888665
+1+*14 = Error: Invalid Expression
+52.41/0 = Error: Invalid Expression
+30+*42 = Error: Invalid Expression
+(tan(44.86)*57.77/56.31+40-18.55) = 22.68523899205229
+(log(64.41)/57-tan(25.30)/30.25+cos(88.63)*88/81.08) = Error: Invalid Expression
+tan(3.62)*94.88/88 = 0.559132368438585
+44.49.58 = Error: Invalid Expression
+70.09/0 = Error: Invalid Expression
+sin(18.27)/29.06/24.85 = -7.583732646684062E-4
+cos(4.51)+tan(91.71)/4.66*45.18+ln(42.87) = 10.244472997336771
+(92.54*ln(17.50)*8.72-ln(74.27)-95-41) = 2169.3418591232967
+(sin(80.94)-log(96.48)+85.79*cos(70.65)*cos(11.29)) = Error: Invalid Expression
+46**10 = Error: Invalid Expression
+85.33.96 = Error: Invalid Expression
+(ln(29.71)/32.45/22.09*ln(79.91)+tan(47.03)*sin(8.98)*61.14) = -2.45641551534826
+(65.55+tan(32.43)-38.48/84-90.21*3.98+cos(49.42)) = -291.67382460130557
+(log(73.44)+cos(37.05)+ln(62.20)+96.02+77*8.25) = Error: Invalid Expression
+94+cos(13.71)+log(20.91)/41.74-59-88.55+37.69 = Error: Invalid Expression
+93-+82 = Error: Invalid Expression
+(83/92.14-log(28.34)*45.96*sin(35.92)) = Error: Invalid Expression
+91-/29 = Error: Invalid Expression
+(40-sin(51.40)*25) = 17.341739800683406
+57.48.28 = Error: Invalid Expression
+48.63.37 = Error: Invalid Expression
+(92.36/29/32.19/22.69+ln(28.33)) = 3.3482817552363673
+92+*10 = Error: Invalid Expression
+(sin(87.39)/88/94) = -6.570288757881577E-5
+log(49.59)-0.64-cos(80.71)/60/88-tan(46.15)+sin(57.37) = Error: Invalid Expression
+95.64.55 = Error: Invalid Expression
+3/8-tan(88.52)/12+42.71-83.99-log(88.90) = Error: Invalid Expression
+(sin(51.79)+cos(73.30)-57+ln(81.21)-cos(83.36)/57.36) = -52.105468629332
+(ln(89.19)/54.20+ln(92.71)-49.52-4*53.61) = -259.3476681431472
+36*74.51-tan(4.52)+ln(91.12)+21.98 = 2703.7186628843538
+50//78 = Error: Invalid Expression
+41.11.23 = Error: Invalid Expression
+3-89/65.45*cos(20.18) = 2.67630276572651
+68+/96 = Error: Invalid Expression
+(63.04/63-tan(17.38)-sin(20.68)) = 9.87786379099321
+(75+tan(20.59)*13.50+tan(45.82)-24.91*sin(42.86)) = 14.977369912071813
+cos( = Error: Invalid Expression
+44+*12 = Error: Invalid Expression
+43.61/0 = Error: Invalid Expression
+51*/4 = Error: Invalid Expression
+69-*73 = Error: Invalid Expression
+69.51.62 = Error: Invalid Expression
+cos(35.64)/51+85+32*76*85 = 206804.99080119713
+67-+25 = Error: Invalid Expression
+63+*20 = Error: Invalid Expression
+13.71.71 = Error: Invalid Expression
+(sin(3.79)/27.17-log(82.07)/59*81.81/45.08) = Error: Invalid Expression
+(74+cos(85.07)/23.22/83*37) = 73.98138441363574
+17-+79 = Error: Invalid Expression
+8.42.52 = Error: Invalid Expression
+93.92/0 = Error: Invalid Expression
+(97.25/57*58/19.97) = 4.955239877359899
+log(29.47)-cos(2.84)/16+97.47-59.42/42.49/23 = Error: Invalid Expression
+10+*63 = Error: Invalid Expression
+21**36 = Error: Invalid Expression
+(cos(30.09)+59.69-94.42+1-16.54-57.03) = -107.05756999797818
+ln(67.50)-ln(4.20)+31-23-log(52.69) = Error: Invalid Expression
+53.68+log(23.03)-17+ln(82.65)/92+79*sin(94.80) = Error: Invalid Expression
+cos(98.52)*tan(14.27)*49-14*22.88 = -164.06699205049804
+52*/10 = Error: Invalid Expression
+85.25.38 = Error: Invalid Expression
+44+*86 = Error: Invalid Expression
+1+*6 = Error: Invalid Expression
+70.54/0 = Error: Invalid Expression
+ln(31.93)/19.46-39*25 = -974.8220171630664
+35.67*19.09-log(64.99)+14-81 = Error: Invalid Expression
+99*+12 = 1188.0
+13.15-63+log(47.53)*20 = Error: Invalid Expression
+94**39 = Error: Invalid Expression
+40.63/64.95/26/56*47 = 0.020193153651583213
+21.42-log(54.97)-sin(87.40)-log(19.06)*10.58-ln(93.85)-0 = Error: Invalid Expression
+log( = Error: Invalid Expression
+cos( = Error: Invalid Expression
+19.77*29.32*67.09+cos(41.08) = 38888.1763708055
+(sin(94.83)-76.06/68.62+sin(32.12)) = 0.0887845503827397
+(log(67.00)+cos(22.86)+84.69-tan(1.50)+tan(4.28)) = Error: Invalid Expression
+48.37/0 = Error: Invalid Expression
+33.50.30 = Error: Invalid Expression
+94+*0 = Error: Invalid Expression
+62.16.76 = Error: Invalid Expression
+(ln(27.29)+75/91/83*15.24) = 3.4578509318339767
+69+*0 = Error: Invalid Expression
+(sin(86.25)/96.70+sin(66.38)/60/31.95) = -0.010440812381801145
+(cos(44.74)+ln(17.05)-ln(22.64)+ln(90.47)+log(95.93)-ln(59.66)+sin(21.17)) = Error: Invalid Expression
+11.32/0 = Error: Invalid Expression
+19+*78 = Error: Invalid Expression
+sin(23.60)*cos(89.09)*log(35.32)/12.65 = Error: Invalid Expression
+90+*95 = Error: Invalid Expression
+29.82/0 = Error: Invalid Expression
+cos( = Error: Invalid Expression
+82.29*34.05-50.70+25.64-cos(92.74) = 2776.8515249803063
+log( = Error: Invalid Expression
+(ln(40.14)+23/66) = 4.04085819185304
+sin(48.43)-log(91.98)-86.29+88+10/43.93+sin(9.32) = Error: Invalid Expression
+cos( = Error: Invalid Expression
+84+52.28-cos(32.14)/73*8*ln(22.63)-69 = 67.02392414612234
+(cos(84.37)-19/88*cos(77.28)) = -0.833071031224722
+11/*27 = Error: Invalid Expression
+(17.32/11/32+cos(9.53)*34.97/31) = -1.0726209469507275
+tan( = Error: Invalid Expression
+cos(40.60)*cos(31.33)+29.39-tan(1.83)-log(82.69)-81.65-17 = Error: Invalid Expression
+sin( = Error: Invalid Expression
+sin( = Error: Invalid Expression
+91.46/0 = Error: Invalid Expression
+48+*57 = Error: Invalid Expression
+(sin(4.94)*cos(45.19)-23.76/52.17/53.92) = -0.35445380057292636
+66+*56 = Error: Invalid Expression
+(tan(78.69)-33*11) = -362.8486769213291
+97.28.29 = Error: Invalid Expression
+96*+69 = 6624.0
+49++76 = Error: Invalid Expression
+ln(45.72)-cos(71.78)*96.77+sin(8.97) = 90.24635690553033
+98+*44 = Error: Invalid Expression
+log(92.06)*log(42.88)*ln(47.35)*ln(52.34)/61 = Error: Invalid Expression
+tan( = Error: Invalid Expression
+77.98+49.89*cos(70.11)/61*32 = 92.23146498701595
+65.42+tan(9.53)+34.50+20.24*ln(53.82)*94.92*25 = 191528.64883112462
+(3+33/93.91*28.81*sin(65.90)+46) = 49.74288460982066
+sin(49.77)+13.37+88/97 = 13.801760351428179
+(cos(75.36)*log(3.73)/7) = Error: Invalid Expression
+(sin(50.05)*25.05*sin(61.31)-71.44/1*14) = -994.8102541429556
+(79.92-24.38-92+91.43*24/39.00/22) = -33.90251748251748
+77.53/0 = Error: Invalid Expression
+51+*62 = Error: Invalid Expression
+64.3.64 = Error: Invalid Expression
+tan( = Error: Invalid Expression
+21.76/0 = Error: Invalid Expression
+3**39 = Error: Invalid Expression
+(sin(60.46)+sin(94.49)-log(66.71)+45.55+tan(66.94)+log(24.72)*cos(54.83)) = Error: Invalid Expression
+51.22/0 = Error: Invalid Expression
+(86-ln(11.54)+sin(83.06)-tan(8.54)+59.92+cos(13.63)) = 146.16297096831832
+33.69-62+cos(24.66)-tan(19.33)/41 = -27.43238812038169
+90//79 = Error: Invalid Expression
+68/7*sin(47.26)-77.72*13.82-log(25.62)*4 = Error: Invalid Expression
+5-/59 = Error: Invalid Expression
+84+*68 = Error: Invalid Expression
+(cos(5.02)*34/35-36-61.13/62.65) = -36.681606499578166
+2.99/0 = Error: Invalid Expression
+30.90/0 = Error: Invalid Expression
+log(72.20)+62.13/32+49.82 = Error: Invalid Expression
+36.39.50 = Error: Invalid Expression
+91.62/0 = Error: Invalid Expression
+95.91/0 = Error: Invalid Expression
+(99.44-84.73-98/34) = 11.82764705882353
+38+*28 = Error: Invalid Expression
+38.80.49 = Error: Invalid Expression
+tan(23.42)*cos(73.19)+log(7.23) = Error: Invalid Expression
+96/60.62*78-99.17*7.32+sin(29.50) = -603.3418418339451
+log( = Error: Invalid Expression
+42.06/0 = Error: Invalid Expression
+55*tan(60.02)-log(86.75)/68 = Error: Invalid Expression
+sin(12.08)*tan(97.02)*log(4.03)+95.77-46.53 = Error: Invalid Expression
+31.22/0 = Error: Invalid Expression
+76.09/0 = Error: Invalid Expression
+9/12.32-tan(27.34)+ln(25.50)+80 = 85.32226867054929
+52+*71 = Error: Invalid Expression
+57.13/0 = Error: Invalid Expression
+73.41/0 = Error: Invalid Expression
+87.15/0 = Error: Invalid Expression
+47+*46 = Error: Invalid Expression
+(cos(23.84)-tan(28.44)/6) = 0.2466195474613794
+(cos(58.96)*9*log(22.67)/53+sin(75.04)) = Error: Invalid Expression
+81+*22 = Error: Invalid Expression
+34*+66 = 2244.0
+19.79/0 = Error: Invalid Expression
+99.36/23.50-60+37 = -18.77191489361702
+79.20/0 = Error: Invalid Expression
+16.91/0 = Error: Invalid Expression
+tan(75.36)*20.59+ln(100.69)-73.83 = -70.00536272682244
+16.87.54 = Error: Invalid Expression
+(log(84.41)+tan(84.77)-tan(26.05)+sin(65.02)/61) = Error: Invalid Expression
+28-+18 = Error: Invalid Expression
+38.88+ln(50.34)-69*sin(39.28)*26/48 = 5.425703202651974
+(tan(50.95)/8.49+cos(10.15)/9.54/32+49.61/28.10) = 1.8591610468167232
+63.20.14 = Error: Invalid Expression
+96+67+log(85.71)-cos(20.11) = Error: Invalid Expression
+sin(75.29)+log(99.33)-log(58.55)/83 = Error: Invalid Expression
+87.14-15-sin(40.71)/52.80/18-cos(48.31) = 72.51513109008873
+(ln(4.40)/15-log(43.16)*log(92.38)+52.56-tan(45.77)) = Error: Invalid Expression
+cos(23.45)*88+ln(60.81)-log(89.99)/3+8*82.85 = Error: Invalid Expression
+(74.64*cos(56.34)*97*38*11.14) = 2998386.768937616
+75.26+cos(1.71)*sin(61.32)+sin(15.37)*82 = 102.58694714316164
+cos( = Error: Invalid Expression
+(ln(22.75)+60/38.03+tan(53.59)-11.91/62.00) = 4.6951630729339415
+39.83+82.40-95.27+sin(72.99)/78.10+ln(94.17)-93.36 = -61.863469099941376
+log( = Error: Invalid Expression
+66*/36 = Error: Invalid Expression
+73//59 = Error: Invalid Expression
+(sin(52.81)*log(75.19)/90+14.62+tan(38.59)) = Error: Invalid Expression
+ln( = Error: Invalid Expression
+52.37-ln(28.41)+3 = 52.0232588041339
 
 === Test Results ===
-PASS: 6.86.76 expected: Error: Invalid Expression, got: Error: Invalid Expression
-PASS: (ln(12.10)+18-67.22/91.99) expected: 19.76247385134169, got: 19.76247385134169
-FAIL: (34.26-68.45+log(61.31)+28.39-67.43) expected: Error: Invalid Expression, got: -71.44246868387278
-PASS: 66.67.61 expected: Error: Invalid Expression, got: Error: Invalid Expression
-FAIL: 6.81/55.18/58*tan(93.34)+log(73.21)-76.06 expected: Error: Invalid Expression, got: -74.23188997887962
-FAIL: (77.80+84*25.03+25.01+tan(4.88)-cos(63.65)*80) expected: 2144.733788350376, got: 2169.9071103000065
-PASS: 69.18.19 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(6.44)/12*95*5*8.85-5) expected: 50.38891325554456, got: 34.54150343623613
+PASS: 73.9.33 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(19.79)*90.53/88.23/85+97*47.12 expected: 4570.647115232094, got: 4570.651358453098
+PASS: 44.82/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 22-23-57/35.86 expected: -2.5895147796988285, got: -2.5895147796988285
+FAIL: 62.15+54/69*cos(71.72)-37 expected: 24.4773979771915, got: 25.39547384552138
+FAIL: 27.44-sin(95.58)*cos(84.23)/87.78-35 expected: -7.5508204788964, got: -7.5611398834401236
+FAIL: 39.37*23-tan(6.93)+16.00*7 expected: 1016.7548096068582, got: 1017.3884554030517
+PASS: 0+*99 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(99.13)-sin(84.77)+log(22.66)+tan(28.17)*sin(19.83)) expected: Error: Invalid Expression, got: 2.537293389010819
+FAIL: tan(26.01)*93-sin(13.04)/79 expected: 111.86708716417644, got: 45.37636913174115
+FAIL: 98.79*0+46.60+sin(38.63) expected: 47.40215059503584, got: 47.22428871433309
+FAIL: 59*sin(29.98)/10.72+cos(80.20)-79-sin(3.12) expected: -84.38607375094442, got: -76.13401613894852
+FAIL: cos(70.12)/8*78.78/90.93*sin(10.26)/35/6.98 expected: -1.762126500408459E-4, got: 2.684979553363245E-5
+PASS: 5.56/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 66+*62 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 97**48 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 23.38.55 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(71.43)*log(14.01)+sin(48.13)*tan(46.46)-91/52.71 expected: Error: Invalid Expression, got: 0.14393427074191423
+PASS: 56.92.12 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(98.28)-59/53-cos(90.98)*45.10-tan(63.77)*log(8.69)) expected: Error: Invalid Expression, got: -9.11920691116928
+PASS: 67.67.55 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 80.21*log(76.63)-ln(78.82) expected: Error: Invalid Expression, got: 146.78046302613495
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 73.29.33 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(6.79)/96+sin(1.44)/55*sin(73.32) expected: -0.006647889489332858, got: 0.010781291088936417
+PASS: 38.63/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (11/56+ln(53.91)+tan(13.94)) expected: 9.189695449508877, got: 4.431960557654671
+PASS: 64++40 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(93.69)+log(8.48)+92+99.50 expected: Error: Invalid Expression, got: 196.96838731221982
+PASS: 93-*20 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 32*81+50+96/80/27*log(12.45) expected: Error: Invalid Expression, got: 2642.048674193397
+PASS: 65.48.94 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 74/48*cos(21.58)/38/3 expected: -0.012396384595350217, got: 0.012575468702911858
+PASS: 34.25.27 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (97.99*92.20+59*14.45*8.39-sin(7.44)+tan(77.46)) expected: 16184.786582675506, got: 16191.93886473902
+PASS: 54.54.86 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 33.15-log(5.42)+18-cos(46.86)-50-tan(87.65)*ln(27.00) expected: Error: Invalid Expression, got: -80.57911876015527
+FAIL: (10/9.78*cos(88.14)-66-3.54) expected: -68.53319445574041, got: -69.50681245144544
+PASS: 72+*39 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 53.17/48.15+cos(97.25)+cos(31.66)*27+36 expected: 62.31371856382704, got: 59.959857822225146
+PASS: (48.61/87.98-9-ln(37.91)) expected: -12.082702994997668, got: -12.082702994997668
+FAIL: 31+cos(76.91)/67*ln(48.08) expected: 31.003409611032808, got: 31.01309152004349
+PASS: 81.23/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (60*cos(90.50)+54.12-cos(49.42)-ln(87.47)/13) expected: 3.803098387335135, got: 52.601952891432816
+FAIL: 2+97.22+tan(41.76)-log(66.42)*12 expected: Error: Invalid Expression, got: 78.24526128695533
+PASS: 96.24.84 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 10+*24 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 10.26.61 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 45.36/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 36+*81 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (11.03*ln(83.76)/16/67+45+43.65+36.16) expected: 124.85556002789103, got: 124.85556002789102
+FAIL: 98.48*tan(39.35)*85.43+ln(10.29)+cos(52.68) expected: -104817.4644749077, got: 6901.287104292581
+FAIL: (57-cos(35.83)-tan(65.51)-tan(53.53)/23-58.05) expected: -0.261713433467274, got: -4.114894330194673
+FAIL: (70+log(10.86)/15.60/98) expected: Error: Invalid Expression, got: 70.00067754436503
+PASS: 51//93 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (92+log(86.30)-61.98*77.09) expected: Error: Invalid Expression, got: -4684.1021892042845
+FAIL: 59*cos(16.72)*tan(86.42) expected: 1193.4496041773325, got: 903.1615661281523
+PASS: 20.59.5 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 71+*5 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 58/27/92.52/78.18*74.29 expected: 0.022062935612177405, got: 0.022062935612177408
+FAIL: sin(72.44)*tan(83.60)-45.71-56.93/30 expected: -47.10469472238908, got: -39.10790054046768
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 50+*18 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 41.22/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: tan(33.80)-log(33.61)*95-ln(84.13)+ln(39.21)-ln(76.93) expected: Error: Invalid Expression, got: -149.4513943558075
+FAIL: sin(67.84)/41.48*19.28*2 expected: -0.8892425919046267, got: 0.8609385850397283
+FAIL: cos(17.88)*98.75+log(71.51) expected: Error: Invalid Expression, got: 95.83490309623656
+FAIL: (tan(30.92)/84/72+sin(2.52)-tan(89.69)+cos(92.14)) expected: 6.486989414716126, got: -184.8165659026082
+FAIL: (33+cos(46.00)*27+sin(67.88)/87.96/24) expected: 21.330748238959618, got: 51.75621483692348
+PASS: 42.92/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: tan(74.50)*ln(37.01)*40+cos(21.54)*log(92.77)/85.08 expected: Error: Invalid Expression, got: 520.8824606119493
+PASS: (50/68+4.97*83*4-24/24) expected: 1649.775294117647, got: 1649.775294117647
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(72.34)-29*sin(62.17)+96.07) expected: 113.8095391859049, got: 71.37711052381363
+FAIL: (66*69-log(13.77)*69.97+tan(5.35)/63*sin(98.48)) expected: Error: Invalid Expression, got: 4474.3102624165895
+PASS: 46.47.61 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 60.33.84 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 55.50.17 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 24.12.16 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (43.76-ln(56.52)-sin(62.54)*ln(94.56)) expected: 41.03434499888427, got: 35.68871959653026
+PASS: 87.62/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 72.71/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 11+*84 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 43-/66 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 21+*50 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(97.05)*30.71+97.57*71 expected: 7067.975199968278, got: 7067.975199968277
+PASS: 50.57.91 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 75.67*tan(85.26)*66/25/51.07/27.89-tan(15.02) expected: 0.8874327142495472, got: 1.4231502318226874
+FAIL: cos(48.62)*22+68.00*log(67.70)-23.63/45 expected: Error: Invalid Expression, got: 138.49801807086362
+FAIL: (ln(77.70)*log(97.52)*51.95+cos(80.91)-69-log(76.80)-30.59) expected: Error: Invalid Expression, got: 348.47803340068197
+FAIL: (43.11*76+99*7-15.32*60.58) expected: 3041.2744, got: 3041.2744000000002
+FAIL: (sin(52.40)/48.80-sin(7.43)) expected: -0.8941369943011099, got: -0.1130793731938589
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (ln(53.70)+1-97/44.25/84.03/81.95/75) expected: 4.983408757138582, got: 4.983408757138582
+FAIL: 42.76*tan(4.63)+tan(18.53)-ln(27.77)*94 expected: 205.04380824421756, got: -308.6537918018147
+PASS: 17.28.18 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (47-41-40+log(96.71)*98*93) expected: Error: Invalid Expression, got: 18061.586187301302
+FAIL: 27-29.03*84.58*log(75.46)+ln(66.15)+sin(32.37)-59.76 expected: Error: Invalid Expression, got: -4638.498532585105
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(28.28)*27.27-log(31.39)*cos(26.35)-44.20+36.15 expected: Error: Invalid Expression, got: 3.5287295320629113
+PASS: 6.92/0 expected: Error: Invalid Expression, got: Infinity
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 0.96/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 36.14/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (sin(44.19)*sin(90.81)/54-tan(24.52)/78.33) expected: 0.010089539035001538, got: 0.007083445373749867
+PASS: 28+*99 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 58.21.24 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 40.22/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 52+*24 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 30.84/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 95*/3 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 85.34.10 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(6.19)/73.99/22.68/59*log(33.56)/90) expected: Error: Invalid Expression, got: -5.644346263068609
+FAIL: sin(3.16)/87.68*5.31*7.15 expected: -0.007970153423514911, got: 0.023869552535242457
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (95+49*cos(95.88)+ln(38.64)*tan(65.62)) expected: 90.64390630078806, got: 98.04349322832049
+PASS: 63+*93 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(37.21)*cos(90.09)*sin(32.98)*6-7/74 expected: 1.3899165651462173, got: -0.0976971070572579
+PASS: 36.43/0 expected: Error: Invalid Expression, got: Infinity
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 96-*20 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 45+*97 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(8.49)*4.25*64.17*cos(36.40)-96) expected: -139.4724556100874, got: 121.1071513176299
+PASS: (49*62.08/10.44) expected: 291.37164750957857, got: 291.37164750957857
+PASS: 60.52/0 expected: Error: Invalid Expression, got: Infinity
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (61.06+8.51+cos(6.52)*cos(41.56)+cos(90.92)*cos(57.76)/10.33) expected: 68.80526067090156, got: 70.31259268136385
+PASS: 64.21/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: sin(14.99)-log(84.41)-log(39.47)-15.50*sin(11.27) expected: Error: Invalid Expression, got: -6.293216937322972
+FAIL: 19/57.70-cos(95.79)+ln(28.15)/23.62/34 expected: 0.3048733163853338, got: 0.4343280181284903
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(12.15)-49.66/25/4.85) expected: -0.8140108331584184, got: -0.19909525048797272
+FAIL: sin(5.23)-94.82*37+ln(51.55)*96.96+log(68.50) expected: Error: Invalid Expression, got: -3124.1432930904157
+FAIL: (sin(12.70)+cos(28.62)/26.12+cos(31.27)*87.95+69) expected: 156.1124443005956, got: 144.4270211711327
+FAIL: (ln(38.78)-sin(38.67)-41.41) expected: -38.57748281280554, got: -38.376929288427235
+FAIL: ln(98.01)/83-tan(16.81)+ln(13.85) expected: 0.7088285016383249, got: 2.3814187812423055
+FAIL: (cos(81.11)*86+log(7.12)) expected: Error: Invalid Expression, got: 14.142743901637933
+FAIL: 34*log(74.46)/53.84-ln(87.48)*91.11*sin(56.09)/29.69 expected: Error: Invalid Expression, got: -10.205524690113682
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (48*69.71-13-sin(27.82)) expected: 3332.6411361312103, got: 3332.61330461107
+FAIL: 71/36*75+cos(62.03)*29+64.67 expected: 232.7525765121024, got: 226.1879331237223
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 35.92.6 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(94.45)*cos(79.31)+cos(61.70)/38 expected: -3.253343102117614, got: 0.8561208800465895
+FAIL: (sin(66.04)-sin(43.01)-38.22/89) expected: 0.3302387593758805, got: -0.1977350064840484
+PASS: 42+*62 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(63.44)/10.02/42.33*cos(77.63)/96.27) expected: -8.589829349728284E-6, got: -1.3072748160794259
+PASS: 44.53.72 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (86/48-42.74) expected: -40.94833333333333, got: -40.94833333333334
+FAIL: (76-sin(26.28)+75+30-74) expected: 106.08835924524595, got: 106.55724176896109
+FAIL: 93/65*cos(47.98)/79.06-ln(74.54)+55 expected: 50.67680351794539, got: 50.70077822908854
+FAIL: (ln(73.40)-91*32+87.68-86.87+tan(90.18)/85) expected: -2906.9097261745396, got: -2910.6388859347976
+FAIL: (64-8.17-tan(53.18)-39.76/4.41+log(23.50)+22.35) expected: Error: Invalid Expression, got: 69.19943959405508
+FAIL: (log(95.13)+log(8.61)*sin(63.26)+75.02/13.20/27.39) expected: Error: Invalid Expression, got: 3.0208257146207673
+PASS: 89.24/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (sin(82.32)+cos(25.61)+28+3.19/56.96*tan(55.44)-sin(69.23)) expected: 29.257178480829854, got: 29.039079634131244
+FAIL: (sin(50.42)-45.25+sin(15.29)+62+77*tan(71.15)-ln(65.51)) expected: -140.67329681797287, got: 239.14289724686867
+FAIL: 19*+87 expected: 1653.0, got: Error: Invalid Expression
+FAIL: log(29.13)-ln(63.57)*log(77.18)+39/48.30 expected: Error: Invalid Expression, got: -5.5653933075648245
+FAIL: log(62.61)*55.37-14-48.82*sin(19.72) expected: Error: Invalid Expression, got: 69.00712839404781
+FAIL: cos(42.19)*27.00-tan(78.75)/82.17*73*22.88-0.72 expected: -10.98811137615927, got: -82.90403027203622
+FAIL: ln(42.40)+ln(51.61)+86+tan(20.49)-21 expected: 58.35612196649039, got: 73.06454957602196
+FAIL: (57+13.56/47/28.22-34/28*sin(22.34)) expected: 57.425289116004755, got: 56.54867121225396
+PASS: 4+/91 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(72.33)/84.29/69.50*sin(33.72)+log(93.18)) expected: Error: Invalid Expression, got: 1.969498900218542
+FAIL: (log(67.68)+1.41+sin(20.43)/2-46) expected: Error: Invalid Expression, got: -42.58500827035905
+PASS: (ln(89.40)*ln(100.28)/20.03) expected: 1.0336569428509819, got: 1.0336569428509819
+PASS: 21.7.6 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (34.72-log(72.42)/39/92/72*tan(29.55)-95) expected: Error: Invalid Expression, got: -60.280004081509915
+PASS: 71.61.82 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 3.20/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (95*89*log(45.57)-tan(77.23)+37) expected: Error: Invalid Expression, got: 14056.71897812379
+PASS: 95+/76 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 30+*39 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 99+*15 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 24.22.13 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(70.57)/84.18+84) expected: 84.011799698961, got: 84.01120276323947
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (6/3.82*99*63+93/3+34) expected: 9861.335078534034, got: 9861.335078534032
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 3*35.47/41.81/82 expected: 0.03103762082825325, got: 0.031037620828253242
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (86.57*17.08-8/41+tan(63.50)-log(86.17)*50) expected: Error: Invalid Expression, got: 1383.6583631097606
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(100.15)+tan(35.19)-47.79) expected: -47.4576107492031, got: -52.670569116811606
+PASS: (ln(18.12)*ln(15.67)+84.21/75+80+40-58.21) expected: 70.88465897448307, got: 70.88465897448307
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 9.15/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (log(40.49)+sin(10.66)*42.79/70+log(73.82)-log(9.72)) expected: Error: Invalid Expression, got: 2.6009315368743584
+FAIL: (cos(93.24)+77.79*42.62+ln(48.77)/27.28*sin(53.13)-ln(60.68)) expected: 3311.876902646454, got: 3311.3616588113805
+FAIL: (69/84.81/2.65) expected: 0.3070125674927084, got: 0.30701256749270844
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (6*5-7.14-ln(89.95)) expected: 18.36074603960346, got: 18.360746039603455
+FAIL: 9*13+53.97-tan(54.22)-10/76.67*97 expected: 157.2617496613064, got: 156.93082133160883
+FAIL: (35+sin(93.35)-84/95.26-46.53) expected: -13.19374194846201, got: -11.413505984257085
+FAIL: 15+tan(82.95)/33.38*log(75.23)+tan(78.71)+ln(93.50)-log(15.42) expected: Error: Invalid Expression, got: 23.813476720892183
+FAIL: (cos(76.58)+95.87-tan(81.00)*26.20) expected: 117.49733552860108, got: -69.31820223227852
+FAIL: (19.86-51-11-cos(18.44)-76.75) expected: -119.80729774619708, got: -119.83865541582806
+PASS: 42.38/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (13/50-66.94/99-22*tan(52.39)-cos(91.20)) expected: 36.16450236643866, got: -28.952489626442606
+FAIL: 99.58*61/25.67+sin(9.02)+2+tan(90.10)*ln(26.12) expected: 233.87606087250364, got: -1630.5980439269285
+PASS: 12-+49 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln(36.37)+86.98-89-39.18-ln(35.10) expected: -41.16445687147292, got: -41.16445687147292
+FAIL: cos(2.92)-tan(99.27)*cos(12.19)-21.59+40 expected: 20.3394304228176, got: 25.39730982587648
+FAIL: cos(68.27)-log(49.09)+log(59.27)*48/34.57-ln(92.62)-47.80 expected: Error: Invalid Expression, got: -51.187706458135125
+PASS: 17.52/38.69/10.91 expected: 0.04150597513100324, got: 0.04150597513100324
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (67*2.62-43.53-34) expected: 98.01, got: 98.01000000000002
+FAIL: (43/43.75/34.77/77.62/22-28.19+49) expected: 20.810016553483045, got: 20.81001655348304
+PASS: 78-+53 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(93.62)+cos(13.39)+cos(15.49)*98*65.10) expected: -6228.899451285293, got: 6133.23335653058
+PASS: 13+*43 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 8.58.26 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(29.63)*3.41-tan(33.82)-cos(75.92)-ln(33.77)/35.63 expected: 15.54841060387254, got: 0.9275071020346726
+PASS: 22.32/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: tan(38.57)-60*78 expected: -4678.81253687509, got: -4679.2025674002425
+PASS: 76+*0 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(50.66)-tan(79.73)/66.88/66+3-sin(65.92)/66 expected: 3.382987244323168, got: 3.758314525349966
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 61.35/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 72-12/72.77-96.34*ln(38.82)/49.69+ln(37.87) expected: 68.37523612733526, got: 68.37523612733527
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 78+*83 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 2/8-18.66 expected: -18.41, got: -18.41
+FAIL: 32+45*sin(85.04)*67 expected: -617.1275245455695, got: 3035.709734043981
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(100.73)*51+21.65-sin(59.35)/50.88/7/61 expected: 71.64313348705379, got: 12.154725078770822
+FAIL: (ln(48.36)/83+log(57.95)/42/86+sin(63.86)-sin(3.41)) expected: Error: Invalid Expression, got: 0.885458733415298
+FAIL: 55/25+cos(19.36)-99/55 expected: 1.272527632597183, got: 1.3434543202870726
+FAIL: 89/21.02/28*log(94.34)/89/52+tan(92.08) expected: Error: Invalid Expression, got: -27.533881308278275
+FAIL: (cos(57.25)-19-43.00-1-30.63) expected: -92.8660167407998, got: -93.089025528632
+FAIL: (96*cos(67.32)/26.59-log(9.99)/4) expected: Error: Invalid Expression, got: 1.1422133010773918
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 16.55+tan(7.69)-ln(58.73)*tan(61.30)/82.74 expected: 23.856887703882922, got: 16.59511464602615
+PASS: 6.40.30 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(65.04)*tan(5.45)-76/31*71+ln(95.23)) expected: Error: Invalid Expression, got: -169.33522851827954
+PASS: 10.73.65 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(10.82)+74.80-65+69.58-cos(1.05)) expected: Error: Invalid Expression, got: 79.41439517642371
+FAIL: 64.12/75.41/20-82/56/75 expected: 0.022990445879983078, got: 0.02299044587998308
+PASS: 18.57/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 11.59/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 22+/89 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 16.33-75/80.29+log(25.14)*ln(29.01)-tan(20.39) expected: Error: Invalid Expression, got: 19.74011510224044
+PASS: 29+*89 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 46/+20 expected: 2.3, got: Error: Invalid Expression
+PASS: 57.42.98 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 45.62*tan(83.34)+7+ln(37.45)+40.31-log(54.08) expected: Error: Invalid Expression, got: 439.89825583577976
+FAIL: tan(44.30)/90*cos(38.33)-log(8.74)+log(33.39)/70+10 expected: Error: Invalid Expression, got: 9.088760231725397
+FAIL: (ln(34.66)/87/70.76/98.87) expected: 5.825275205159952E-6, got: -0.1747247948400501
+FAIL: (log(28.35)+ln(89.73)-cos(76.68)-21) expected: Error: Invalid Expression, got: -15.281031202137699
+PASS: 72+*58 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(16.69)-ln(53.53)+tan(58.60)/69/34*tan(95.67)) expected: -4.541035122314209, got: -3.0294031547664724
+PASS: (ln(16.55)/23/66) expected: 0.0018487391975119051, got: 0.0018487391975119051
+FAIL: tan(60.59)+ln(51.81)-sin(13.89)+86.96 expected: 91.19745821507706, got: 92.44151464024918
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (48-16.14*1*log(10.67)) expected: Error: Invalid Expression, got: 31.405426270489055
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(26.78)*88/10-sin(87.56)/40) expected: -114.8549610661602, got: 4.416367625830166
+PASS: 81.24/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 45.66.66 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 14.05/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 28.89.13 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (5.87+36+tan(65.99)-89*ln(20.58)+40.27) expected: -187.00790021914534, got: -184.77947381471773
+FAIL: (87.91+cos(4.56)/45) expected: 87.90662666981115, got: 87.93215188055453
+FAIL: (23*62.37*tan(39.24)/49.81-66) expected: 896.6483719475945, got: -42.47808897681021
+PASS: 19.91/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (sin(85.93)+33*cos(59.98)/66/31-sin(23.99)) expected: -4.18798378635E-5, got: 0.5989702804982465
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(90.48)+log(88.34)*log(91.19)) expected: Error: Invalid Expression, got: 3.8059882850938376
+FAIL: (81+57*41.63-cos(7.63)) expected: 2453.6878864505857, got: 2452.9188538449034
+FAIL: tan(88.74)/8/94.06+ln(35.13)+log(13.96) expected: Error: Invalid Expression, got: 4.764361773178785
+FAIL: 98*ln(48.71)/95.32+sin(62.42)+16.34+log(86.37)*61.44 expected: Error: Invalid Expression, got: 140.1916422003626
+FAIL: cos(74.53)+ln(89.14)/64+sin(1.25)*18*62 expected: 1059.7831779207434, got: 24.682304984931108
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: log(23.70)/13.37*69+14*sin(76.47)-sin(74.76) expected: Error: Invalid Expression, got: 19.74144451666424
+PASS: 48+*88 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (32*cos(78.90)-85+96.14+log(87.82)/18.85) expected: Error: Invalid Expression, got: 17.40381133375044
+FAIL: 10.22*sin(72.55)+74.57+88 expected: 159.61459175809736, got: 172.31966540943876
+PASS: 61-/40 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(10.06)-42*93.11+26.91+79.75-7 expected: -3810.222856509979, got: -3810.7825930633
+PASS: 47.56/0 expected: Error: Invalid Expression, got: Infinity
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(33.71)-sin(23.59)+cos(26.85)-sin(67.32)+cos(8.14)*42 expected: -9.271382029410482, got: 41.701171856764994
+PASS: 13.31/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (51.33+log(29.05)/86/47.94) expected: Error: Invalid Expression, got: 51.33035488792597
+PASS: 64.95+76-6.40/52 expected: 140.82692307692307, got: 140.82692307692307
+FAIL: 35-cos(64.45)/41*cos(63.53) expected: 35.00088435729129, got: 34.99531116196953
+PASS: 86.12.27 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 66.76.48 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 3+*52 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 67+*33 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 16.53/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (20/10-log(37.35)) expected: Error: Invalid Expression, got: 0.4277093938485823
+PASS: 65.69.90 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 92.00/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 39.73/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 59.77/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 32.98.98 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 82.24.52 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(38.63)*33.43*log(98.22)*86.94-81.70*54.12 expected: Error: Invalid Expression, got: 16735.730077644203
+PASS: 1.24.79 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 40.06/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (cos(54.50)+ln(57.22)+94.49) expected: 98.07701338060886, got: 99.1176064433329
+PASS: 21**54 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (36-91.64/90) expected: 34.98177777777778, got: 34.98177777777778
+PASS: 82.51/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 23.52/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (77.41-11+93.99) expected: 160.4, got: 160.39999999999998
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (32.74*59.99/45.26+3-54.08+73+32.19) expected: 97.50532920901458, got: 97.50532920901459
+FAIL: (ln(60.64)*71*78.15) expected: 22776.95712550354, got: 22776.957125503544
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 44.37.54 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(84.07)/63.44-log(92.19) expected: Error: Invalid Expression, got: -1.8129263094510732
+FAIL: (92.41/57/50/7-69.92) expected: -69.9153679197995, got: -69.91536791979951
+FAIL: (cos(85.27)+65.50-tan(72.40)) expected: 64.45389193141227, got: 62.43006091692575
+FAIL: ln(98.35)+sin(14.09)+47.13-cos(70.09)*19-sin(82.90)/77 expected: 42.042434025440336, got: 45.47876138150658
+FAIL: (cos(50.48)+66-log(27.39)*ln(46.61)/41-log(70.77)-sin(44.78)) expected: Error: Invalid Expression, got: 63.94740544401607
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 91.58.86 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 28.58-sin(61.59)/60.12*38.69/72 expected: 28.588458916999596, got: 28.572138318033304
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 17.33.94 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(98.41)-54+85.44) expected: 33.070424511104854, got: 24.676182179593567
+FAIL: (log(7.47)/7.79*92.07) expected: Error: Invalid Expression, got: 10.32177507177712
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (59-ln(15.40)-77.27*69.13/51) expected: -48.473094960399976, got: -48.47309496039996
+PASS: 31.93.38 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 25/*82 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 63-tan(22.63)/61-sin(74.89)+82.03-70.84*sin(9.25) expected: 133.1861186705298, got: 132.67073549844028
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (ln(39.30)-log(24.35)*tan(7.03)) expected: Error: Invalid Expression, got: 3.500246890844336
+FAIL: 35+tan(43.85)-sin(95.46) expected: 33.93052802616528, got: 34.9651792366929
+FAIL: 62.31/90.30/57.18-tan(49.69)-ln(22.38) expected: -2.447369184919174, got: -4.2748423706472565
+FAIL: 34.90*59.96-cos(3.42) expected: 2093.5654943580603, got: 2091.6057809347217
+FAIL: log(69.23)-77.07+20 expected: Error: Invalid Expression, got: -55.22970566838856
+PASS: 54.54/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (cos(58.59)/92.06-cos(44.45)/41-93/3+35.98) expected: 4.953304457011526, got: 4.96824981105107
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (61.52-ln(28.73)/35.34+40.83*cos(97.92)) expected: 26.209533196817716, got: 55.79900426855644
+FAIL: tan(20.19)/14.27+69/86*ln(98.71) expected: 3.983245638330594, got: 3.7101979710111426
+FAIL: 19/90*11.06-87.70/21.17-log(80.05)-ln(80.87) expected: Error: Invalid Expression, got: -8.103970074521397
+PASS: 88.91/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 1.29/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 78.89+96+tan(18.03)-5-cos(7.95)+83.02 expected: 251.93511085071214, got: 252.24510952825239
+FAIL: (87.36-14.59/69.44+tan(51.65)-11.10) expected: 81.35595137450721, got: 77.31384086223095
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(75.19)-ln(34.98)-sin(21.40)/65 expected: -2.5849508855868515, got: -3.3047754620218286
+PASS: 23+*42 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(60.46)+88.71-log(30.20)-log(46.70)-tan(69.74)) expected: Error: Invalid Expression, got: 83.34454484662058
+FAIL: log(55.70)+sin(10.69)-tan(33.56) expected: Error: Invalid Expression, got: 1.2679577362120695
+FAIL: 5*cos(12.21)-25 expected: -20.314154020503835, got: -20.113105018677523
+FAIL: (cos(37.08)+12+ln(55.07)) expected: 16.822999289266225, got: 16.80639954281296
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 95.25/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 35+*44 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 84.92+78.59/90.32 expected: 85.79012843224092, got: 85.79012843224092
+FAIL: cos(40.92)-tan(49.35)*cos(65.00)/29.60/60.89-log(28.19) expected: Error: Invalid Expression, got: -0.694743293245953
+FAIL: 77/20.39*log(79.70)+ln(49.94) expected: Error: Invalid Expression, got: 11.091415259226352
+PASS: 65+*91 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (90+cos(29.86)-cos(55.65)*80) expected: 40.20262987048476, got: 45.72750526530551
+PASS: 66.88/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 76.94+ln(53.71)+ln(85.38)*tan(97.31)*log(56.50)+sin(52.71) expected: Error: Invalid Expression, got: 20.980685479320204
+FAIL: 52.12+sin(85.83)/10 expected: 52.03547684260088, got: 52.21973526879433
+FAIL: (log(93.50)/28.10+79+35.00-cos(31.73)) expected: Error: Invalid Expression, got: 113.21959978801887
+PASS: 55++69 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(63.99)/95.40+38.79 expected: 38.79420374994525, got: 38.794596729656874
+FAIL: cos(92.30)+33*tan(14.38)*log(70.21)-ln(52.36)-68.48 expected: Error: Invalid Expression, got: -56.856479381898225
+PASS: 70+*33 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(91.91)-36.76-15-ln(10.40)/90*34 expected: -53.33864853289607, got: -52.67801180828587
+FAIL: (log(54.43)*cos(20.98)-96-46+sin(36.29)) expected: Error: Invalid Expression, got: -139.787365754506
+PASS: 16.32/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 3.74/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 11-10+51.80*ln(90.90)+ln(10.84)/70 expected: 234.63961438981627, got: 234.63961438981627
+FAIL: log(29.22)*13.73-ln(78.28)-ln(94.13)/40.64 expected: Error: Invalid Expression, got: 15.651669485414336
+FAIL: 73.89+57+38.89/84.77 expected: 131.34877079155362, got: 131.3487707915536
+FAIL: 65.02*78.61+16*33+log(35.88)/92 expected: Error: Invalid Expression, got: 5639.239100569938
+PASS: 92+*37 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 49+*9 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 55.83*37.52/52.90*39*sin(38.40)/41.16 expected: 24.196592096656534, got: 23.305528937177627
+FAIL: (log(54.64)+sin(73.60)+log(68.13)/97.38) expected: Error: Invalid Expression, got: 2.7156513071209005
+PASS: (2-56+ln(54.03)-ln(36.21)) expected: -53.59979587592157, got: -53.59979587592157
+FAIL: 36/+69 expected: 0.5217391304347826, got: Error: Invalid Expression
+FAIL: (ln(50.46)*cos(50.93)/57*sin(64.63)+sin(9.95)) expected: -0.44864412551070626, got: 0.21196515840375552
+FAIL: (84+tan(49.60)+tan(25.00)/95.39/25.22) expected: 83.21501720204262, got: 85.17518985671516
+PASS: 17.46.10 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln(13.90)/36.71*56.86*32.75 expected: 133.5061640423061, got: 133.5061640423061
+FAIL: (6.32*cos(55.48)*11.87+5.11/86.06-87.82) expected: -51.65483402847836, got: -45.24815489992452
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (ln(75.15)/32.37-log(31.04)-65*tan(42.55)-cos(42.42)) expected: Error: Invalid Expression, got: -61.762662015579124
+FAIL: (log(53.01)/9.35/72.42*cos(72.91)/71-21*sin(70.25)) expected: Error: Invalid Expression, got: -19.764685779929298
+PASS: 91+*36 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(1.43)-27-sin(87.71)*sin(39.00)) expected: -26.616933820373024, got: -26.62912924576541
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 94-sin(35.10)/34.31+11.78+log(82.24)+sin(29.36) expected: Error: Invalid Expression, got: 108.16861939822797
+PASS: 44+*13 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 84-/37 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 23-*17 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(17.65)*log(44.21)/32*log(83.67)-log(85.35)*99.10*8 expected: Error: Invalid Expression, got: -1531.0281794447724
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 24-tan(15.81)-52-94+tan(28.81)-1 expected: -122.50883859527278, got: -122.73317803876449
+FAIL: 32*sin(10.85)-cos(45.76) expected: -31.456095008920652, got: 5.325964983897306
+FAIL: log(92.43)*23/79.39/74-log(39.13) expected: Error: Invalid Expression, got: -1.5848137159213918
+FAIL: (71/94+46+log(82.41)/42) expected: Error: Invalid Expression, got: 46.80093771832046
+FAIL: (32.62/59-cos(7.04)*cos(3.48)/83) expected: 0.5611439239118837, got: 0.54094604534951
+FAIL: (sin(81.78)*44/87.38-83.17/91/51.52) expected: 0.0318250590152817, got: 0.4806346364637515
+PASS: 41.88.66 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (16*cos(21.70)/8/93.68-ln(67.39)*65) expected: -273.7027323180575, got: -273.66244522631035
+PASS: 61.53.5 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 13.73.2 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 9+*82 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 53.06/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (cos(84.85)*log(9.68)-54.00-43) expected: Error: Invalid Expression, got: -96.9115044042673
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 6.76.11 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 38+*14 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 45*+87 expected: 3915.0, got: Error: Invalid Expression
+FAIL: (71.30*25.86*log(38.71)/32) expected: Error: Invalid Expression, got: 91.4892795029679
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (ln(2.33)-93/63+sin(99.11)/15) expected: -0.6962419591043426, got: -0.5644964627514165
+PASS: 26.68/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 11+*56 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (13+70.77+log(90.56)-33.71-cos(85.55)/4) expected: Error: Invalid Expression, got: 51.99753914097642
+FAIL: (17*tan(80.81)+sin(29.40)) expected: -21.110780215422224, got: 105.56827196990014
+FAIL: (ln(39.82)*48+tan(78.21)-37.77/41.55) expected: 175.5983813912157, got: 180.7316081340495
+PASS: 25+*44 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 1+*20 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 95.33*99/28+cos(74.72)+9+81/95 expected: 347.6909628612743, got: 347.1758107759308
+PASS: 9**17 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (17+66.62*42.40/35) expected: 97.70537142857142, got: 97.70537142857142
+PASS: 41+*8 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(1.59)*8+tan(57.74)/49.58) expected: Error: Invalid Expression, got: 1.643131236202295
+FAIL: 42+33.95-36-ln(90.89)*29.47+25*19.67 expected: 398.8006149676689, got: 398.80061496766893
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 31/85.62*cos(45.48)-24/3.97 expected: -6.018899024036919, got: -5.791475252643732
+FAIL: tan(38.94)*ln(82.65)*sin(73.31)/60+sin(85.56)+ln(65.41) expected: 3.3218629121289873, got: 5.234623406399601
+FAIL: 40.19-log(84.60)/76 expected: Error: Invalid Expression, got: 40.16463986364422
+FAIL: log(14.03)*log(95.13)+cos(57.11)*tan(39.84)+sin(17.54)*6 expected: Error: Invalid Expression, got: 4.530549969448494
+FAIL: cos(38.99)/51/69*ln(62.99)/96.70/1 expected: 3.3635377416716557E-6, got: 9.463039195525746E-6
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 91.42.28 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 88.89.25 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 43+*5 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(46.20)/37*14.77-log(40.70)/67.79-90.50-log(64.71) expected: Error: Invalid Expression, got: -91.91844459485988
+FAIL: 64.11*64/98.23*85.53+ln(96.93)+tan(12.67) expected: 3577.242494730746, got: 3577.3633023913426
+PASS: 86.41/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: log(11.83)*40.21-log(8.33)+32.91-ln(99.43) expected: Error: Invalid Expression, got: 70.53461770109031
+FAIL: (67.81*ln(14.26)+cos(92.55)+93.18*48) expected: 4652.715612826632, got: 4652.797763915523
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(31.89)-tan(88.45)*89.20 expected: -46.59658732669139, got: -3295.947004955227
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(53.36)*34.13*sin(49.44)-58.58+log(61.01)*tan(12.30)-tan(13.80)) expected: Error: Invalid Expression, got: -13.650622229612274
+PASS: 15.48.58 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (49+cos(47.91)/46.01) expected: 48.984642401243406, got: 49.014568509227004
+PASS: 97.95/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 38/71/88.10*log(77.03)-79.84 expected: Error: Invalid Expression, got: -79.82853846043729
+PASS: 39.45/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: cos(96.74)*24.20-cos(50.90)/43.20*98*84 expected: -172.73981795195328, got: -123.0189894156418
+FAIL: sin(81.55)*sin(45.49)*log(24.15)+44*58.99 expected: Error: Invalid Expression, got: 2596.535491390824
+FAIL: (ln(65.47)+cos(17.65)/16.21*tan(34.41)) expected: 4.178266458848721, got: 4.2218589361221355
+FAIL: ln(25.21)*9.62-cos(50.33) expected: 30.048136465153508, got: 30.407691057034217
+FAIL: (ln(3.95)+75-5-70*log(11.52)+36*cos(1.98)) expected: Error: Invalid Expression, got: 33.050548183588525
+FAIL: 18+log(74.64)*8-log(91.88) expected: Error: Invalid Expression, got: 31.02055205938456
+PASS: 9+*55 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 33*33.14-28+ln(97.25) expected: 1070.1972849824986, got: 1070.1972849824988
+PASS: 65+*86 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (60.42*37+log(36.30)+sin(97.31)/84-ln(76.50)) expected: Error: Invalid Expression, got: 2232.774423887186
+PASS: 41-+41 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 53.92/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 76+*54 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 55.5.43 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (10-43*67.44-cos(87.88)+ln(77.54)-log(54.75)*ln(54.23)) expected: Error: Invalid Expression, got: -2892.5479736461716
+FAIL: sin(4.07)/10.29/61.89/87.78/92 expected: -1.5567990205524287E-7, got: 1.380025831001648E-8
+PASS: 77.92/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (43.12/22.27+ln(91.38)/21*57.21*93) expected: 1145.8569355833997, got: 1145.8569355833995
+PASS: 85/*62 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 4.30.49 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 76+*26 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 34+*93 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(31.61)+38/49.38+log(13.11)+ln(41.92)-ln(34.91) expected: Error: Invalid Expression, got: 2.685579455418324
+PASS: 38+*5 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 2+cos(51.57)*89.59 expected: 25.574999174816792, got: 57.685384449600136
+FAIL: (0+84.70-76+cos(72.87)) expected: 7.882286601795348, got: 8.994540736955303
+PASS: 71.84/0 expected: Error: Invalid Expression, got: Infinity
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(87.02)-sin(85.71)-ln(23.16)/26.80+ln(20.13)) expected: 2.2776095950677586, got: 21.097189893282405
+FAIL: 54.67-sin(24.75)-log(78.87)-tan(91.91) expected: Error: Invalid Expression, got: 82.34110598973686
+FAIL: (cos(31.55)/56-72-73+tan(41.90)+53) expected: -90.2008223172312, got: -91.08753374665267
+FAIL: 33.34-40/59.44*tan(88.66)/56.44/44.98 expected: 33.3397788011856, got: 33.3286678222978
+FAIL: (76.12+67.53-82.06+log(57.55)+log(14.33)-39.34/69.03) expected: Error: Invalid Expression, got: 63.936394372194826
+PASS: (19*3.87-13*22) expected: -212.47, got: -212.47
+PASS: 77.14/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (cos(48.98)-0/28.72-64/45.91*ln(45.79)+tan(95.02)) expected: -4.0754248259469925, got: -16.058828562826328
+FAIL: sin(36.96)+26+ln(90.16)*tan(25.70)-ln(28.82)*tan(58.63) expected: 34.1956041765145, got: 23.25491968550586
+FAIL: (log(36.42)+log(92.20)+41) expected: Error: Invalid Expression, got: 44.52607086251253
+FAIL: cos(21.87)-50.08*log(94.16)/18.79+41.77 expected: Error: Invalid Expression, got: 37.43718885704347
+PASS: 59.39/17.98/26.28*7.11+76 expected: 76.89365086016426, got: 76.89365086016426
+FAIL: (cos(97.60)*cos(32.36)-cos(33.57)-60) expected: -60.02276980182608, got: -60.944928092225375
+PASS: 39.41.51 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (1+sin(50.96)*ln(51.16)+sin(40.34)*88-tan(80.31)+57) expected: 107.71099912766554, got: 112.16425361972439
+PASS: 37.41.38 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 23//7 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 37+*53 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 67.83/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 97.79.25 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 8.97/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 49.38/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (log(50.65)*sin(91.89)+ln(12.94)/17.85-ln(29.61)-11.93) expected: Error: Invalid Expression, got: -13.471024526754007
+FAIL: (71-67.77*38) expected: -2504.26, got: -2504.2599999999998
+FAIL: cos(14.39)*cos(93.25)+log(45.28)-99.69 expected: Error: Invalid Expression, got: -98.08900772110101
+PASS: 51.61.78 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(30.21)+ln(51.75)+cos(29.51)/14.36) expected: 2.9893508486303784, got: 4.510198957762409
+FAIL: log(57.20)+tan(34.34)+tan(23.90) expected: Error: Invalid Expression, got: 2.883712265301486
+FAIL: cos(60.54)-25.42/5.49*tan(28.72)+cos(12.29)/5.85 expected: -2.7076869514642867, got: -1.8782432050350386
+FAIL: (cos(30.45)-tan(94.10)/93*3/31/53.26/51) expected: 0.5686550312065385, got: 0.8620770875129167
+FAIL: (cos(43.53)*50.14*55.51) expected: 2503.401064761793, got: 2017.9103132615649
+FAIL: 65.35*1.13+sin(14.42)*tan(69.59)/24.71-20.64 expected: 53.22548352035571, got: 53.23258451985295
+FAIL: 14-17/37*log(35.06) expected: Error: Invalid Expression, got: 13.290221554057238
+FAIL: (ln(73.65)+3.93+ln(9.31)*72.15/84.40+sin(14.87)/13) expected: 10.193763648232075, got: 10.156328619855984
 PASS: 97.25/0 expected: Error: Invalid Expression, got: Infinity
-PASS: 4.62.78 expected: Error: Invalid Expression, got: Error: Invalid Expression
-FAIL: (87.31-sin(38.66)*ln(99.28)+cos(25.31)/95-26/91.65) expected: 83.26773576605336, got: 84.16350298054542
-Pass percentage: 60.00%
+PASS: 68++42 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 73+sin(3.00)+21*14.09/64-63-69.29 expected: -54.52559874194012, got: -54.61438279375706
+FAIL: (17.11/87-log(30.35)+ln(75.67)/35.32-60.66) expected: Error: Invalid Expression, got: -61.82300103835088
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 94.36/0 expected: Error: Invalid Expression, got: Infinity
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 33.14-log(20.35)+tan(63.18)/71 expected: Error: Invalid Expression, got: 31.859294003696217
+PASS: 58.29/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 75+*51 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 15.28.56 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 47*log(49.03)/7-cos(72.43)+16.62+25/3 expected: Error: Invalid Expression, got: 36.00170671384206
+FAIL: 40*log(26.91)/68 expected: Error: Invalid Expression, got: 0.8411257045669144
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 2.00/0 expected: Error: Invalid Expression, got: Infinity
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 40.29.31 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 56.46*sin(29.07)+21 expected: -19.33106720400608, got: 48.43266102344552
+PASS: 54.69.12 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 32-+57 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 0/+98 expected: 0.0, got: Error: Invalid Expression
+FAIL: (38*ln(22.29)*53.03+27.24/59*cos(3.64)+2) expected: 6256.867418923421, got: 6257.733709861789
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 27+*69 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 60.04/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 69/+69 expected: 1.0, got: Error: Invalid Expression
+PASS: 25.76.5 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (39/8.14/11-34.95-tan(7.13)*20) expected: -57.13536599733317, got: -37.0162072967547
+PASS: 69+*76 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 10.91/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 95*56.30-65.24*tan(91.82)+log(34.16) expected: Error: Invalid Expression, got: 7403.176015850389
+FAIL: (log(9.60)-sin(86.41)*63.95-63.41) expected: Error: Invalid Expression, got: -126.25223790673707
+FAIL: ln(97.14)*7.20+82*cos(22.42) expected: -41.62610120427929, got: 108.750165913751
+PASS: 17+*97 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (82*47-35.71+log(84.36)-log(34.15)+31.92) expected: Error: Invalid Expression, got: 3850.60274586305
+FAIL: (40/32.36*ln(7.88)*27.12*log(4.54)-log(68.84)) expected: Error: Invalid Expression, got: 43.63186395543874
+PASS: 69*ln(14.98)/24/9.69 expected: 0.8030762060893794, got: 0.8030762060893794
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 11.88/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 74+*47 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 87++50 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 62.54/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 95+7.82/39 expected: 95.20051282051283, got: 95.20051282051283
+PASS: 38+*90 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 84.14.31 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 72+*29 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 10.22.3 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(82.09)*log(22.38)+18*log(83.41)*93.40*69.77-87 expected: Error: Invalid Expression, got: 225276.45989822
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(55.95)+6.59*tan(23.20)+sin(56.55)-86*sin(1.84) expected: -64.67003114316341, got: 1.4574266122878203
+FAIL: (40-log(34.98)-tan(67.76)-75.72+86) expected: Error: Invalid Expression, got: 46.2906367683177
+FAIL: (tan(49.70)/72+93*tan(12.79)*46.12/60.34/52) expected: 0.30208387571892215, got: 0.3266975906350745
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 88*/75 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 0**49 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 61+log(59.12)-ln(88.56)*ln(73.12) expected: Error: Invalid Expression, got: 43.52732161883743
+FAIL: ln(98.63)+tan(16.56)*sin(15.80)+73/57.43/45/69.14 expected: 4.486732698421566, got: 4.672747351336424
+FAIL: tan(66.91)*97.75*84+tan(42.89)/20/56.69*tan(39.99) expected: 11161.831511998575, got: 19259.734702131034
+FAIL: (37+85*sin(74.24)-28.88*52.56) expected: -1558.8006463857016, got: -1399.1281330475745
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 87.58.24 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 27+*72 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (88.60-tan(40.70)*sin(6.67)*25) expected: 89.93581243585065, got: 86.10236596339873
+PASS: 60+*55 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 78.92/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (log(95.20)+sin(73.82)-45-tan(66.82)*ln(52.54)+82.97) expected: Error: Invalid Expression, got: 31.65706353188874
+PASS: 94.96/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: ln(78.03)*10.86*cos(87.61)*sin(52.31)/9.89/93 expected: 0.0429320630136301, got: 0.0016976749332413795
+PASS: 9+*94 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 99+*39 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 66+*45 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 22/92.02*25.51+cos(8.58) expected: 5.434994200261882, got: 7.0877000638055225
+FAIL: (21.33/88.72*ln(50.28)) expected: 0.9418684117988195, got: 0.9418684117988193
+PASS: 68.94.97 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (80+log(81.24)/39.32*50.25) expected: Error: Invalid Expression, got: 82.44063932388916
+PASS: 18-+10 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 12+*53 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 92+/10 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(83.34)*sin(36.66)*37+41+tan(10.70)*57.57 expected: 232.86436557720492, got: 54.4400680236635
+PASS: 68.46/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 1.72.5 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 67+*57 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (19/59.86*ln(51.14)) expected: 1.2488602142899727, got: 1.2488602142899727
+PASS: (34/22/81.24) expected: 0.01902332035271474, got: 0.01902332035271474
+PASS: 22.71/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 3-+67 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(21.31)*51.74*25.21/39.92/84.46*65.19 expected: -19.59186618629364, got: 23.49530501963127
+PASS: 17+*16 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (42.93-sin(37.92)/82.86-46/95.55+23*7) expected: 203.44593248707983, got: 203.44115980643772
+FAIL: (29.99+sin(40.38)+tan(93.91)*cos(1.94)+tan(93.62)+82) expected: 111.8356130224328, got: 82.20884507464918
+PASS: 63+*37 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 12*tan(5.56)/91 expected: -0.11640254586909318, got: 0.012836843326732
+PASS: 49+*49 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 86.27/32.15/22.41 expected: 0.11973936874159849, got: 0.1197393687415985
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 55+*46 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 34.61.29 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 46.88.3 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(39.99)/10.18*ln(59.65)/38) expected: -0.012048093817139302, got: 0.008865262414141551
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 60.92/49-86.29*sin(64.10)-73 expected: -154.1248702715676, got: -149.37957543992007
+PASS: 35+/38 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(99.72)+94.17/47.27*47 expected: 92.90716124677479, got: 94.61775798630617
+PASS: 93.49/45/63.90/26.31-2.16-23 expected: -25.158764249087678, got: -25.158764249087678
+PASS: 18/*3 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 29.43+30.89*log(53.60)+97/48/42.44/84.70 expected: Error: Invalid Expression, got: 82.84446252884624
+FAIL: cos(67.96)/90/55/52/2.54*72.62 expected: 4.4861110068121856E-5, got: 4.168109142329198E-5
+PASS: 18.85/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 41.55+log(78.61)*tan(57.14)*cos(30.41)+log(57.02) expected: Error: Invalid Expression, got: 45.83677346362875
+FAIL: 97+cos(6.96)*cos(14.43)-sin(18.37) expected: 97.23634952757358, got: 97.64616411337353
+FAIL: (cos(11.57)-sin(23.87)-log(49.60)/41.13) expected: Error: Invalid Expression, got: 0.533795064341013
+PASS: 81+*57 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 36+/78 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 32+*42 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (ln(68.42)-27.68-cos(64.85)*log(21.91)+11.67*ln(69.19)) expected: Error: Invalid Expression, got: 25.42001974915686
+FAIL: tan(77.63)-ln(59.53)-64+97.35+92.70*28.21-4 expected: 2639.044637688317, got: 2644.89016267204
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 36/53.87-65.79-68.36+18.05-ln(3.43)/82.88 expected: -115.44659614677032, got: -115.44659614677032
+FAIL: (57.40-85.63*73.87+ln(50.62)+97.74) expected: -6166.423753244883, got: -6166.423753244884
+PASS: 37++83 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (24-29*18.28) expected: -506.12, got: -506.12
+FAIL: (33.76+cos(96.58)+ln(48.69)/53+95.75) expected: 128.89335786379334, got: 129.4687204329776
+FAIL: 93.45-cos(69.48)+sin(85.26)/15+tan(68.02) expected: 90.54677034827405, got: 95.64348080936993
+PASS: 28+*47 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (60.90/3/67.46) expected: 0.30091906314853245, got: 0.3009190631485325
+PASS: 12.47.68 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 33+52.69+log(49.54) expected: Error: Invalid Expression, got: 87.38495600224982
+FAIL: 3-46.21/99*cos(66.40)+28-ln(38.58)+11.76 expected: 39.532209779219684, got: 38.92039600469965
+PASS: 5+*38 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 98+*81 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 30*tan(84.39)*42+sin(76.97)/71.15+log(41.69) expected: Error: Invalid Expression, got: 12829.05476947218
+PASS: 87.31/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 10.45.40 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(60.05)/40.92+72/10.80-sin(57.70) expected: 5.76255057578869, got: 5.86381799940466
+PASS: 51.22/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (31.04+tan(63.08)/95.67+73.50*63) expected: 4661.542648363765, got: 4661.560585382792
+PASS: 16.58.67 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 75*64+sin(88.22)*37-tan(43.12) expected: 4810.514571627533, got: 4836.045707761422
+FAIL: 23.05*4.61-sin(48.14)/24.26/84.86-cos(40.31) expected: 107.12336362302851, got: 105.49758279783848
+PASS: 83.79/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 96+/81 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 9*sin(62.68)-sin(48.81)-57.10/54 expected: -1.4254799353094414, got: 6.186176448773059
+FAIL: 22*+13 expected: 286.0, got: Error: Invalid Expression
+PASS: 55.81/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 78.22/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 0.97.44 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 89.52.96 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(81.61)*28.20/19/72+54.86/65.57-log(2.04) expected: Error: Invalid Expression, got: 0.5474263605568112
+PASS: 17.56/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: cos(16.82)-45.55+tan(5.85) expected: -46.4553182574497, got: -44.49032340916201
+FAIL: cos(65.33)/68.98/73*6.84 expected: -0.0010867210438428815, got: 5.669613681488322E-4
+FAIL: (31+sin(70.76)+46.51/60-73.52+sin(79.03)*ln(68.84)) expected: -42.739855603997064, got: -36.646229406067825
+PASS: 6//59 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(31.27)/42.27*cos(65.67)/63.29+cos(50.44)/25+43) expected: 43.03944428682689, got: 43.02555537366063
+FAIL: 15/41-14.18-8.23-16.79-12.30+67.07 expected: 15.93585365853659, got: 15.935853658536573
+FAIL: (ln(78.34)-14.32*0.54) expected: -3.371741671762315, got: -3.371741671762316
+FAIL: 72/90.88*19.09*sin(98.93)/60*39.50 expected: -9.952181472083312, got: 9.836024093651089
+PASS: 95*53/39/40.10-78.87 expected: -75.6504846857216, got: -75.6504846857216
+FAIL: ln(31.35)+40+log(82.13)/2.33 expected: Error: Invalid Expression, got: 44.26688886915074
+FAIL: 23.94-sin(77.77)+34+8.33-ln(97.21)/91.69*log(97.06) expected: Error: Invalid Expression, got: 65.19350814893365
+PASS: 32+*44 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 86.74+43/71 expected: 87.3456338028169, got: 87.34563380281689
+PASS: 5.56/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 6+*33 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(18.50)+66.40+log(29.71) expected: Error: Invalid Expression, got: 68.19020730820877
+FAIL: (ln(71.96)*27+cos(62.82)+42) expected: 158.45491079838993, got: 157.91176847955728
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (57+99.71*ln(72.01)/34.31) expected: 69.42903603545852, got: 69.42903603545852
+PASS: 14+*71 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 49+*21 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 42.88/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (44/40+sin(75.44)*25.36+72.20-cos(37.93)/12.92) expected: 74.28379370287334, got: 97.78451165818579
+PASS: 47-+68 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 15.83/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 86+*65 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (80+log(2.05)*34.33) expected: Error: Invalid Expression, got: 90.70251005004404
+FAIL: 64*+30 expected: 1920.0, got: Error: Invalid Expression
+FAIL: (tan(41.94)-tan(41.38)-40.40) expected: -39.03713205556772, got: -40.3824887649487
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(20.08)*5.48-log(82.79) expected: Error: Invalid Expression, got: 14.520511253040027
+PASS: 53*ln(43.38)+23*65 expected: 1694.8099207861326, got: 1694.8099207861326
+FAIL: cos(57.96)/45.64-sin(2.39) expected: -0.6793240562824945, got: -0.030077452396495147
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(38.23)/74/96*16 expected: 0.001942247156162992, got: 0.001769218440513527
+FAIL: tan(28.43)+80.65+log(98.76)-14.38/68.46+cos(86.24) expected: Error: Invalid Expression, got: 83.04148355448365
+PASS: 95.70/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: sin(71.24)/4.79+ln(82.89)+tan(57.95)/47/1 expected: 4.71938648971985, got: 4.6491753180824205
+PASS: 96.53/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 83**13 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (48.49/83.23/89.80*38.02/21) expected: 0.011745966844257542, got: 0.011745966844257546
+PASS: 38+*13 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(10.10)-sin(24.49)+sin(13.68)-log(26.09)-26+34 expected: Error: Invalid Expression, got: 8.718025923632236
+FAIL: tan(35.51)+34.71/5*47.61+63.22*70*sin(65.49) expected: 2388.9852963020494, got: 4357.844423298179
+PASS: 59**82 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (24+47.81-cos(28.01)/54*72.90) expected: 73.11311011135746, got: 70.61813138442572
+FAIL: (cos(45.13)*tan(66.27)+tan(28.60)+ln(56.35)-88.46) expected: -83.96526833939068, got: -82.27830856089476
+PASS: 99/93.91*ln(52.32) expected: 4.171871920005808, got: 4.171871920005808
+PASS: 71.24/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 33.50/0 expected: Error: Invalid Expression, got: Infinity
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 72.35.93 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 31+*46 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (25.50-tan(45.76)*ln(61.46)*97-70) expected: 1858.6129771626204, got: -454.7244995381284
+PASS: 52.79/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 81**3 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 29.53*57.53/80*tan(33.17)+7.25/51+21.77 expected: -92.65452637977918, got: 35.792574722260426
+PASS: 15+*26 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(87.59)-96*98 expected: -9408.393158091387, got: -9384.239840095115
+FAIL: (67.80/51.83*61.88*67/27.09) expected: 200.20023720960143, got: 200.20023720960145
+PASS: 19/*43 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 82+*53 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (70.82/35/65*96-56*cos(28.80)) expected: 51.42788178957891, got: -46.08472573080801
+PASS: 18+*82 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 18*+23 expected: 414.0, got: Error: Invalid Expression
+FAIL: (64+cos(8.15)*log(32.39)+37+cos(4.42)*96) expected: Error: Invalid Expression, got: 198.2096437857483
+FAIL: (67-cos(4.35)/58.50/38) expected: 67.00015947326364, got: 66.99955145329619
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 43.55-66.51/69.18/92.18/43 expected: 43.5497574500269, got: 43.5497574500269
+FAIL: (53.57-46*7.13*81-66.75+sin(27.95)+39.85) expected: -26539.391322531854, got: -26539.241299133013
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(12.01)*32.05-sin(9.61) expected: 79.85212011614581, got: 79.50101450379736
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 26.70.86 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 93.17.88 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (ln(84.35)*94/87*sin(59.69)/79*tan(48.31)) expected: 3.901599749310494E-5, got: 0.05879344665113074
+PASS: 64//4 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 52.95+87.58*cos(82.77)+1-55.51/22.33 expected: 92.07794421055078, got: 62.486284858248716
+FAIL: (log(24.00)+log(72.93)+cos(19.73)) expected: Error: Invalid Expression, got: 4.184411368375391
+PASS: 40+*32 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(46.30)*ln(34.90)/27*23-4+log(56.54)*sin(49.92)) expected: Error: Invalid Expression, got: -0.47135387940084383
+FAIL: sin(77.55)-sin(47.30)/87.09-7.10/9.37/82+ln(19.61) expected: 3.8047358580591295, got: 3.934844889374086
+PASS: 34.5.23 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(38.56)/65-tan(71.90)/77.82-cos(27.27)) expected: 0.5593401063471652, got: -0.9159085928440843
+PASS: 28+*36 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 31.46-74.40*93.29-97.35*ln(31.30)*log(75.58)/68.36 expected: Error: Invalid Expression, got: -6918.527673902699
+PASS: 23.96/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 14.71-sin(1.41)+36.78/61+45 expected: 59.32585071865828, got: 60.28834416106715
+PASS: 37.57.70 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(97.77)+log(81.67)+44-16*sin(79.82)*48.22*tan(35.23) expected: Error: Invalid Expression, got: -489.37240362765556
+FAIL: 47*ln(95.16)*64.12+log(70.82)/53.55 expected: Error: Invalid Expression, got: 13728.85144047751
+PASS: 70++52 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(15.13)/60-33.64-90-52.48-sin(15.99)*ln(14.70)) expected: -175.38280950309814, got: -176.85591384459522
+FAIL: 96.12*27+log(23.01)+cos(84.06)-40/61 expected: Error: Invalid Expression, got: 2596.0496658590014
+PASS: 28//51 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(98.35)-sin(5.62)/13/58.42/96.81) expected: -0.8195430543107708, got: 0.9893981057890371
+PASS: 75.12/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 61/+78 expected: 0.782051282051282, got: Error: Invalid Expression
+FAIL: (5+25.58*ln(45.35)/68+47.06-12.68-sin(15.93)) expected: 41.035108168276494, got: 40.54042860990682
+PASS: 3+*83 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 12.21/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: sin(19.62)-82*tan(78.88)-79.36+sin(24.19)/88 expected: -107.69611086888665, got: -496.2061727412678
+PASS: 1+*14 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 52.41/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 30+*42 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(44.86)*57.77/56.31+40-18.55) expected: 22.68523899205229, got: 22.47092648042366
+FAIL: (log(64.41)/57-tan(25.30)/30.25+cos(88.63)*88/81.08) expected: Error: Invalid Expression, got: 0.042058938269008056
+FAIL: tan(3.62)*94.88/88 expected: 0.559132368438585, got: 0.0682113048115849
+PASS: 44.49.58 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 70.09/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: sin(18.27)/29.06/24.85 expected: -7.583732646684062E-4, got: 4.3411923008262673E-4
+FAIL: cos(4.51)+tan(91.71)/4.66*45.18+ln(42.87) expected: 10.244472997336771, got: -320.00142875739937
+FAIL: (92.54*ln(17.50)*8.72-ln(74.27)-95-41) expected: 2169.3418591232967, got: 2169.341859123297
+FAIL: (sin(80.94)-log(96.48)+85.79*cos(70.65)*cos(11.29)) expected: Error: Invalid Expression, got: 26.878498251190326
+PASS: 46**10 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 85.33.96 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (ln(29.71)/32.45/22.09*ln(79.91)+tan(47.03)*sin(8.98)*61.14) expected: -2.45641551534826, got: 10.265437974466025
+FAIL: (65.55+tan(32.43)-38.48/84-90.21*3.98+cos(49.42)) expected: -291.67382460130557, got: -292.6580320805964
+FAIL: (log(73.44)+cos(37.05)+ln(62.20)+96.02+77*8.25) expected: Error: Invalid Expression, got: 738.0643976912723
+FAIL: 94+cos(13.71)+log(20.91)/41.74-59-88.55+37.69 expected: Error: Invalid Expression, got: -14.856859407835003
+PASS: 93-+82 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (83/92.14-log(28.34)*45.96*sin(35.92)) expected: Error: Invalid Expression, got: -38.25977088824365
+PASS: 91-/29 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (40-sin(51.40)*25) expected: 17.341739800683406, got: 20.46198818952953
+PASS: 57.48.28 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 48.63.37 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (92.36/29/32.19/22.69+ln(28.33)) expected: 3.3482817552363673, got: 3.3482817552363673
+PASS: 92+*10 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(87.39)/88/94) expected: -6.570288757881577E-5, got: -2.792356579738214
+FAIL: log(49.59)-0.64-cos(80.71)/60/88-tan(46.15)+sin(57.37) expected: Error: Invalid Expression, got: 0.8565633125681563
+PASS: 95.64.55 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 3/8-tan(88.52)/12+42.71-83.99-log(88.90) expected: Error: Invalid Expression, got: -46.079297916125235
+FAIL: (sin(51.79)+cos(73.30)-57+ln(81.21)-cos(83.36)/57.36) expected: -52.105468629332, got: -51.53186801492833
+PASS: (ln(89.19)/54.20+ln(92.71)-49.52-4*53.61) expected: -259.3476681431472, got: -259.3476681431472
+FAIL: 36*74.51-tan(4.52)+ln(91.12)+21.98 expected: 2703.7186628843538, got: 2708.773124374701
+PASS: 50//78 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 41.11.23 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 3-89/65.45*cos(20.18) expected: 2.67630276572651, got: 1.7236577346411253
+PASS: 68+/96 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (63.04/63-tan(17.38)-sin(20.68)) expected: 9.87786379099321, got: 0.33448893077355657
+FAIL: (75+tan(20.59)*13.50+tan(45.82)-24.91*sin(42.86)) expected: 14.977369912071813, got: 64.15665504600082
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 44+*12 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 43.61/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 51*/4 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 69-*73 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 69.51.62 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(35.64)/51+85+32*76*85 expected: 206804.99080119713, got: 206805.0159351797
+PASS: 67-+25 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 63+*20 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 13.71.71 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(3.79)/27.17-log(82.07)/59*81.81/45.08) expected: Error: Invalid Expression, got: -0.05644534216932873
+FAIL: (74+cos(85.07)/23.22/83*37) expected: 73.98138441363574, got: 74.00164986980144
+PASS: 17-+79 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 8.42.52 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 93.92/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (97.25/57*58/19.97) expected: 4.955239877359899, got: 4.9552398773599
+FAIL: log(29.47)-cos(2.84)/16+97.47-59.42/42.49/23 expected: Error: Invalid Expression, got: 98.8161548688067
+PASS: 10+*63 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 21**36 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(30.09)+59.69-94.42+1-16.54-57.03) expected: -107.05756999797818, got: -106.43476106247178
+FAIL: ln(67.50)-ln(4.20)+31-23-log(52.69) expected: Error: Invalid Expression, got: 9.055314874016371
+FAIL: 53.68+log(23.03)-17+ln(82.65)/92+79*sin(94.80) expected: Error: Invalid Expression, got: 116.81321476241712
+FAIL: cos(98.52)*tan(14.27)*49-14*22.88 expected: -164.06699205049804, got: -322.16639545527937
+PASS: 52*/10 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 85.25.38 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 44+*86 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 1+*6 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 70.54/0 expected: Error: Invalid Expression, got: Infinity
+PASS: ln(31.93)/19.46-39*25 expected: -974.8220171630664, got: -974.8220171630664
+FAIL: 35.67*19.09-log(64.99)+14-81 expected: Error: Invalid Expression, got: 612.1274534630329
+FAIL: 99*+12 expected: 1188.0, got: Error: Invalid Expression
+FAIL: 13.15-63+log(47.53)*20 expected: Error: Invalid Expression, got: -16.310643714104827
+PASS: 94**39 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 40.63/64.95/26/56*47 expected: 0.020193153651583213, got: 0.020193153651583213
+FAIL: 21.42-log(54.97)-sin(87.40)-log(19.06)*10.58-ln(93.85)-0 expected: Error: Invalid Expression, got: 0.5955056873326257
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 19.77*29.32*67.09+cos(41.08) expected: 38888.1763708055, got: 38889.90166881364
+FAIL: (sin(94.83)-76.06/68.62+sin(32.12)) expected: 0.0887845503827397, got: 0.4197199572762441
+FAIL: (log(67.00)+cos(22.86)+84.69-tan(1.50)+tan(4.28)) expected: Error: Invalid Expression, got: 87.48618506952529
+PASS: 48.37/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 33.50.30 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 94+*0 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 62.16.76 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (ln(27.29)+75/91/83*15.24) expected: 3.4578509318339767, got: 3.4578509318339767
+PASS: 69+*0 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(86.25)/96.70+sin(66.38)/60/31.95) expected: -0.010440812381801145, got: 0.010797066430334614
+FAIL: (cos(44.74)+ln(17.05)-ln(22.64)+ln(90.47)+log(95.93)-ln(59.66)+sin(21.17)) expected: Error: Invalid Expression, got: 3.1861875153036343
+PASS: 11.32/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 19+*78 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: sin(23.60)*cos(89.09)*log(35.32)/12.65 expected: Error: Invalid Expression, got: 7.780822734824805E-4
+PASS: 90+*95 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 29.82/0 expected: Error: Invalid Expression, got: Infinity
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 82.29*34.05-50.70+25.64-cos(92.74) expected: 2776.8515249803063, got: 2776.9623037958604
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (ln(40.14)+23/66) expected: 4.04085819185304, got: 4.04085819185304
+FAIL: sin(48.43)-log(91.98)-86.29+88+10/43.93+sin(9.32) expected: Error: Invalid Expression, got: 0.8840353762335215
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 84+52.28-cos(32.14)/73*8*ln(22.63)-69 expected: 67.02392414612234, got: 66.99054798734574
+FAIL: (cos(84.37)-19/88*cos(77.28)) expected: -0.833071031224722, got: 0.05056367236379128
+PASS: 11/*27 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (17.32/11/32+cos(9.53)*34.97/31) expected: -1.0726209469507275, got: 1.1617006969137178
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: cos(40.60)*cos(31.33)+29.39-tan(1.83)-log(82.69)-81.65-17 expected: Error: Invalid Expression, got: -70.56084393509079
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: sin( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 91.46/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 48+*57 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(4.94)*cos(45.19)-23.76/52.17/53.92) expected: -0.35445380057292636, got: 0.05224198543540598
+PASS: 66+*56 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (tan(78.69)-33*11) expected: -362.8486769213291, got: -358.00003064213706
+PASS: 97.28.29 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 96*+69 expected: 6624.0, got: Error: Invalid Expression
+PASS: 49++76 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: ln(45.72)-cos(71.78)*96.77+sin(8.97) expected: 90.24635690553033, got: -26.27828429539669
+PASS: 98+*44 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: log(92.06)*log(42.88)*ln(47.35)*ln(52.34)/61 expected: Error: Invalid Expression, got: 0.8023766850982429
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 77.98+49.89*cos(70.11)/61*32 expected: 92.23146498701595, got: 86.88405140558494
+FAIL: 65.42+tan(9.53)+34.50+20.24*ln(53.82)*94.92*25 expected: 191528.64883112462, got: 191528.7110999474
+FAIL: (3+33/93.91*28.81*sin(65.90)+46) expected: 49.74288460982066, got: 58.241388960928234
+FAIL: sin(49.77)+13.37+88/97 expected: 13.801760351428179, got: 15.040674457940945
+FAIL: (cos(75.36)*log(3.73)/7) expected: Error: Invalid Expression, got: 0.020642354724108688
+FAIL: (sin(50.05)*25.05*sin(61.31)-71.44/1*14) expected: -994.8102541429556, got: -983.3141516563018
+FAIL: (79.92-24.38-92+91.43*24/39.00/22) expected: -33.90251748251748, got: -33.902517482517474
+PASS: 77.53/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 51+*62 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 64.3.64 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: tan( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 21.76/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 3**39 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(60.46)+sin(94.49)-log(66.71)+45.55+tan(66.94)+log(24.72)*cos(54.83)) expected: Error: Invalid Expression, got: 48.74416385606501
+PASS: 51.22/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (86-ln(11.54)+sin(83.06)-tan(8.54)+59.92+cos(13.63)) expected: 146.16297096831832, got: 145.2885269139862
+FAIL: 33.69-62+cos(24.66)-tan(19.33)/41 expected: -27.43238812038169, got: -27.409755999072086
+PASS: 90//79 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 68/7*sin(47.26)-77.72*13.82-log(25.62)*4 expected: Error: Invalid Expression, got: -1072.5901470658532
+PASS: 5-/59 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 84+*68 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(5.02)*34/35-36-61.13/62.65) expected: -36.681606499578166, got: -36.00803584863944
+PASS: 2.99/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 30.90/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: log(72.20)+62.13/32+49.82 expected: Error: Invalid Expression, got: 53.62009969756964
+PASS: 36.39.50 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 91.62/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 95.91/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: (99.44-84.73-98/34) expected: 11.82764705882353, got: 11.827647058823523
+PASS: 38+*28 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 38.80.49 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: tan(23.42)*cos(73.19)+log(7.23) expected: Error: Invalid Expression, got: 0.9844056980038458
+FAIL: 96/60.62*78-99.17*7.32+sin(29.50) expected: -603.3418418339451, got: -601.9083868654986
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 42.06/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 55*tan(60.02)-log(86.75)/68 expected: Error: Invalid Expression, got: 95.31113140152588
+FAIL: sin(12.08)*tan(97.02)*log(4.03)+95.77-46.53 expected: Error: Invalid Expression, got: 48.21127094333555
+PASS: 31.22/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 76.09/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 9/12.32-tan(27.34)+ln(25.50)+80 expected: 85.32226867054929, got: 83.45217501304342
+PASS: 52+*71 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 57.13/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 73.41/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 87.15/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 47+*46 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (cos(23.84)-tan(28.44)/6) expected: 0.2466195474613794, got: 0.8244109575836235
+FAIL: (cos(58.96)*9*log(22.67)/53+sin(75.04)) expected: Error: Invalid Expression, got: 1.084790825063017
+PASS: 81+*22 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 34*+66 expected: 2244.0, got: Error: Invalid Expression
+PASS: 19.79/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: 99.36/23.50-60+37 expected: -18.77191489361702, got: -18.771914893617023
+PASS: 79.20/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 16.91/0 expected: Error: Invalid Expression, got: Infinity
+FAIL: tan(75.36)*20.59+ln(100.69)-73.83 expected: -70.00536272682244, got: 9.602646833169842
+PASS: 16.87.54 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (log(84.41)+tan(84.77)-tan(26.05)+sin(65.02)/61) expected: Error: Invalid Expression, got: 12.377212663419208
+PASS: 28-+18 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 38.88+ln(50.34)-69*sin(39.28)*26/48 expected: 5.425703202651974, got: 19.136287096774502
+FAIL: (tan(50.95)/8.49+cos(10.15)/9.54/32+49.61/28.10) expected: 1.8591610468167232, got: 1.913898727211923
+PASS: 63.20.14 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 96+67+log(85.71)-cos(20.11) expected: Error: Invalid Expression, got: 163.99399723724238
+FAIL: sin(75.29)+log(99.33)-log(58.55)/83 expected: Error: Invalid Expression, got: 2.943008379586992
+FAIL: 87.14-15-sin(40.71)/52.80/18-cos(48.31) expected: 72.51513109008873, got: 71.47421369873311
+FAIL: (ln(4.40)/15-log(43.16)*log(92.38)+52.56-tan(45.77)) expected: Error: Invalid Expression, got: 48.41764773708537
+FAIL: cos(23.45)*88+ln(60.81)-log(89.99)/3+8*82.85 expected: Error: Invalid Expression, got: 746.9882337086523
+FAIL: (74.64*cos(56.34)*97*38*11.14) expected: 2998386.768937616, got: 1698745.876993503
+FAIL: 75.26+cos(1.71)*sin(61.32)+sin(15.37)*82 expected: 102.58694714316164, got: 97.87112816192014
+PASS: cos( expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (ln(22.75)+60/38.03+tan(53.59)-11.91/62.00) expected: 4.6951630729339415, got: 5.866041680248418
+FAIL: 39.83+82.40-95.27+sin(72.99)/78.10+ln(94.17)-93.36 expected: -61.863469099941376, got: -61.84265437488379
+PASS: log( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 66*/36 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 73//59 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (sin(52.81)*log(75.19)/90+14.62+tan(38.59)) expected: Error: Invalid Expression, got: 15.434610635085992
+PASS: ln( expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 52.37-ln(28.41)+3 expected: 52.0232588041339, got: 52.0232588041339
+Pass percentage: 52.60%

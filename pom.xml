@@ -46,13 +46,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- Dependency for Pemdas from GitHub via JitPack -->
-        <dependency>
-            <groupId>com.github.Calcent</groupId>
-            <artifactId>Pemdas</artifactId>
-            <version>master</version>
-        </dependency>
-
         <dependency>
             <groupId>org.mariuszgromada.math</groupId>
             <artifactId>MathParser.org-mXparser</artifactId>
