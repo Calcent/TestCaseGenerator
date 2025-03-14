@@ -1,9 +1,8 @@
-#Pemdas_Calculator
- calculator with proper pemdas and such
+#Calculator tester
 
 How to run:
 Boot up command prompt
-Head to the directory of the project, will be different for everyone, but if its named Pemdas_Calculator, and there is a pom.xml file in there, then you are in the right spot
+Head to the directory of the project, will be different for everyone, and there is a pom.xml file in there, then you are in the right spot
 
 Running using maven:
 cd to the correct directory as stated above, then run the command:
