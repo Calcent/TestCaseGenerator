@@ -1,0 +1,23 @@
+6.86.76 = Error: Invalid Expression
+(ln(12.10)+18-67.22/91.99) = 19.76247385134169
+(34.26-68.45+log(61.31)+28.39-67.43) = Error: Invalid Expression
+66.67.61 = Error: Invalid Expression
+6.81/55.18/58*tan(93.34)+log(73.21)-76.06 = Error: Invalid Expression
+(77.80+84*25.03+25.01+tan(4.88)-cos(63.65)*80) = 2144.733788350376
+69.18.19 = Error: Invalid Expression
+97.25/0 = Error: Invalid Expression
+4.62.78 = Error: Invalid Expression
+(87.31-sin(38.66)*ln(99.28)+cos(25.31)/95-26/91.65) = 83.26773576605336
+
+=== Test Results ===
+PASS: 6.86.76 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: (ln(12.10)+18-67.22/91.99) expected: 19.76247385134169, got: 19.76247385134169
+FAIL: (34.26-68.45+log(61.31)+28.39-67.43) expected: Error: Invalid Expression, got: -71.44246868387278
+PASS: 66.67.61 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: 6.81/55.18/58*tan(93.34)+log(73.21)-76.06 expected: Error: Invalid Expression, got: -74.23188997887962
+FAIL: (77.80+84*25.03+25.01+tan(4.88)-cos(63.65)*80) expected: 2144.733788350376, got: 2169.9071103000065
+PASS: 69.18.19 expected: Error: Invalid Expression, got: Error: Invalid Expression
+PASS: 97.25/0 expected: Error: Invalid Expression, got: Infinity
+PASS: 4.62.78 expected: Error: Invalid Expression, got: Error: Invalid Expression
+FAIL: (87.31-sin(38.66)*ln(99.28)+cos(25.31)/95-26/91.65) expected: 83.26773576605336, got: 84.16350298054542
+Pass percentage: 60.00%
