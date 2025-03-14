@@ -52,6 +52,12 @@
             <artifactId>Pemdas</artifactId>
             <version>master</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.mariuszgromada.math</groupId>
+            <artifactId>MathParser.org-mXparser</artifactId>
+            <version>4.4.2</version>
+        </dependency>
     </dependencies>
 
     <build>

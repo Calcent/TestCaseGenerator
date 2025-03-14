@@ -33,17 +33,16 @@ public class ExpressionGenerator {
     @FXML
     private Button testExpressions;
 
-    // A list to store the generated expressions along with their expected results.
+    // List to store each generated expression along with its expected result.
     private List<ExpressionTest> generatedTests = new ArrayList<>();
 
-    // Simple inner class to hold an expression and its expected result.
+    // Helper inner class to store an expression and its expected result.
     private class ExpressionTest {
         String expression;
         String expectedResult;
     }
 
     public void initialize() {
-        // Set up button actions.
         genCorrect.setOnAction(event -> handleRandomGeneration("correct"));
         genRandom.setOnAction(event -> handleRandomGeneration("random"));
         genIncorrect.setOnAction(event -> handleRandomGeneration("incorrect"));
@@ -55,7 +54,7 @@ public class ExpressionGenerator {
     }
 
     public void handleRandomGeneration(String type) {
-        // Create a ButtonController instance. (Ensure its handleEquals(String) method is available.)
+        // Create an instance of ButtonController.
         ButtonController controller = new ButtonController();
         Random random = new Random();
 
@@ -63,7 +62,7 @@ public class ExpressionGenerator {
             case "correct":
                 // Get the number of expressions to generate from the spinner.
                 int count = testAmount.getValue();
-                // Optionally clear the errorLog before generating new expressions.
+                // Optionally, clear the errorLog if desired.
                 // errorLog.clear();
                 for (int i = 0; i < count; i++) {
                     StringBuilder expression = new StringBuilder();
@@ -74,7 +73,7 @@ public class ExpressionGenerator {
                     String[] functions = { "log", "ln", "sin", "cos", "tan" };
                     String[] operators = { "+", "-", "*", "/" };
 
-                    // --- Generate the first token normally ---
+                    // --- Generate the first token ---
                     String token = "";
                     if (random.nextDouble() < 0.5) {
                         // Function-wrapped token (ensuring positive argument)
@@ -136,37 +135,39 @@ public class ExpressionGenerator {
 
                     // Convert the built expression to a string.
                     String generatedExpression = expression.toString();
-                    // Evaluate the expression using handleEquals (assumed to accept a String and return a result)
-                    String result = controller.handleEquals(generatedExpression);
-                    // Append the expression and its result to the errorLog.
-                    errorLog.appendText(generatedExpression + " = " + result + "\n");
 
-                    // Save the generated test for later testing.
+                    // Use AlternativeTester (which uses exp4j) to compute the expected result.
+                    String alternativeResult = AlternativeTester.test(generatedExpression);
+
+                    // Append the generated expression and its expected result to the errorLog.
+                    errorLog.appendText(generatedExpression + " = " + alternativeResult + "\n");
+
+                    // Save the generated test for later use.
                     ExpressionTest test = new ExpressionTest();
                     test.expression = generatedExpression;
-                    test.expectedResult = result;
+                    test.expectedResult = alternativeResult;
                     generatedTests.add(test);
                 }
                 break;
 
             case "syntactical":
-                // Code for syntactical expressions (if any) goes here.
+                // Code for syntactical expressions (if any) can be added here.
                 break;
 
             case "random":
-                // Code for random expressions (if any) goes here.
+                // Code for random expressions (if any) can be added here.
                 break;
 
             case "Test":
-                // If no expressions have been generated, notify the user.
                 if (generatedTests.isEmpty()) {
                     errorLog.appendText("No expressions generated to test.\n");
                     break;
                 }
-                // Iterate over each saved expression, re-evaluate it, and compare with the expected result.
                 errorLog.appendText("\n=== Test Results ===\n");
                 for (ExpressionTest test : generatedTests) {
+                    // Re-evaluate using the original handleEquals method.
                     String currentResult = controller.handleEquals(test.expression);
+                    // Compare with the expected result from the alternative tester.
                     if (test.expectedResult.equals(currentResult)) {
                         errorLog.appendText("PASS: " + test.expression + " expected: "
                                 + test.expectedResult + ", got: " + currentResult + "\n");
@@ -178,7 +179,7 @@ public class ExpressionGenerator {
                 break;
 
             default:
-                // Optionally, output a message for unknown generation types.
+                // Handle unknown types if needed.
                 break;
         }
     }
