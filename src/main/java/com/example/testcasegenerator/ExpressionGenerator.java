@@ -1,5 +1,6 @@
 package com.example.testcasegenerator;
 
+import com.example.pemdas_calculator.ButtonController;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Spinner;
@@ -126,17 +127,17 @@ public class ExpressionGenerator {
                     String generatedExpression = expression.toString();
                     //output.setText(generatedExpression);
                     //Now call handleEquals() to evaluate the expression.
-                    handleEquals();
+                    ButtonController.handleEquals(generatedExpression);
                 }
                 break;
             case "syntactical":
-                output.setText("Generated syntactical expression");
+                //output.setText("Generated syntactical expression");
                 break;
             case "random":
-                output.setText("Generated random expression");
+                //output.setText("Generated random expression");
                 break;
             default:
-                output.setText("Unknown generation type");
+                //output.setText("Unknown generation type");
                 break;
         }
     }
