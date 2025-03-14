@@ -136,7 +136,7 @@ public class ExpressionGenerator {
                     // Convert the built expression to a string.
                     String generatedExpression = expression.toString();
 
-                    // Use AlternativeTester (which uses exp4j) to compute the expected result.
+                    // Use AlternativeTester (which uses mXparser) to compute the expected result.
                     String alternativeResult = AlternativeTester.test(generatedExpression);
 
                     // Append the generated expression and its expected result to the errorLog.
@@ -150,8 +150,54 @@ public class ExpressionGenerator {
                 }
                 break;
 
-            case "syntactical":
-                // Code for syntactical expressions (if any) can be added here.
+            case "incorrect":
+                // Generate 10 deliberately incorrect expressions at random.
+                for (int i = 0; i < 10; i++) {
+                    String generatedExpression = "";
+                    int errorType = random.nextInt(5); // 5 different error types: 0,1,2,3,4.
+                    switch (errorType) {
+                        case 0: // Division by zero
+                            double numerator = random.nextDouble() * 100;
+                            generatedExpression = String.format("%.2f/0", numerator);
+                            break;
+                        case 1: // Back-to-back operators (avoid a valid unary minus)
+                            int num1 = random.nextInt(100);
+                            int num2 = random.nextInt(100);
+                            String[] ops = { "+", "-", "*", "/" };
+                            String op1 = ops[random.nextInt(ops.length)];
+                            String op2;
+                            // Re-roll until op2 is not "-" to avoid valid expressions like "+-"
+                            do {
+                                op2 = ops[random.nextInt(ops.length)];
+                            } while (op2.equals("-"));
+                            generatedExpression = num1 + op1 + op2 + num2;
+                            break;
+                        case 2: // Incomplete function call (empty argument)
+                            String[] functions = { "sin", "cos", "tan", "log", "ln" };
+                            String func = functions[random.nextInt(functions.length)];
+                            generatedExpression = func + "(";
+                            break;
+                        case 3: // Multiple decimals in a number (e.g., 2.2.2)
+                            int intPart = random.nextInt(100);
+                            int dec1 = random.nextInt(100);
+                            int dec2 = random.nextInt(100);
+                            generatedExpression = intPart + "." + dec1 + "." + dec2;
+                            break;
+                        case 4: // Invalid operator sequence (e.g., 8+*3)
+                            int n3 = random.nextInt(100);
+                            int n4 = random.nextInt(100);
+                            generatedExpression = n3 + "+*" + n4;
+                            break;
+                    }
+                    String alternativeResult = AlternativeTester.test(generatedExpression);
+                    errorLog.appendText(generatedExpression + " = " + alternativeResult + "\n");
+
+                    // Save the generated test.
+                    ExpressionTest test = new ExpressionTest();
+                    test.expression = generatedExpression;
+                    test.expectedResult = alternativeResult;
+                    generatedTests.add(test);
+                }
                 break;
 
             case "random":

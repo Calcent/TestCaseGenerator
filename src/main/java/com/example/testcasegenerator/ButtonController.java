@@ -175,9 +175,9 @@ public class ButtonController {
         }
         //throws error if anything goes wrong
         catch (Exception e) {
-            //output.setText("Syntax Error");
+            return "Error: Invalid Expression";
         }
-        return "No Text";
+        //return "No Text";
     }
 
     //Prevents application from crashing if you don't have a closed currly bracket and instead just inserts them
