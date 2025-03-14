@@ -50,7 +50,7 @@ public class ExpressionGenerator {
         testExpressions.setOnAction(event -> handleRandomGeneration("Test"));
 
         SpinnerValueFactory<Integer> valueFactory =
-                new SpinnerValueFactory.IntegerSpinnerValueFactory(1, 100, 10);
+                new SpinnerValueFactory.IntegerSpinnerValueFactory(1, 1000, 10);
         testAmount.setValueFactory(valueFactory);
     }
 
@@ -71,8 +71,9 @@ public class ExpressionGenerator {
                 break;
             }
             case "incorrect": {
-                // Always generate 10 incorrect expressions.
-                List<ExpressionTest> incorrectTests = generateIncorrectExpressions(10, controller, random);
+                // Generate the requested number of incorrect expressions.
+                int count = testAmount.getValue();
+                List<ExpressionTest> incorrectTests = generateIncorrectExpressions(count, controller, random);
                 for (ExpressionTest test : incorrectTests) {
                     errorLog.appendText(test.expression + " = " + test.expectedResult + "\n");
                 }
@@ -100,17 +101,30 @@ public class ExpressionGenerator {
                     break;
                 }
                 errorLog.appendText("\n=== Test Results ===\n");
+                int passCount = 0;
+                int totalTests = generatedTests.size();
                 for (ExpressionTest test : generatedTests) {
                     // Re-evaluate using the original handleEquals method.
                     String currentResult = controller.handleEquals(test.expression);
+                    boolean isPass = false;
+                    // Check if results match, or if the special case applies.
                     if (test.expectedResult.equals(currentResult)) {
+                        isPass = true;
+                    } else if (currentResult.equals("Infinity")
+                            && test.expectedResult.equals("Error: Invalid Expression")) {
+                        isPass = true;
+                    }
+                    if (isPass) {
                         errorLog.appendText("PASS: " + test.expression + " expected: "
                                 + test.expectedResult + ", got: " + currentResult + "\n");
+                        passCount++;
                     } else {
                         errorLog.appendText("FAIL: " + test.expression + " expected: "
                                 + test.expectedResult + ", got: " + currentResult + "\n");
                     }
                 }
+                double percentage = (passCount * 100.0) / totalTests;
+                errorLog.appendText("Pass percentage: " + String.format("%.2f", percentage) + "%\n");
                 break;
             }
             default:
@@ -212,7 +226,7 @@ public class ExpressionGenerator {
                     String op2;
                     do {
                         op2 = ops[random.nextInt(ops.length)];
-                    } while (op2.equals("-")); // Ensure we don't produce a valid sequence like "+-"
+                    } while (op2.equals("-")); // Avoid producing a valid sequence like "+-"
                     generatedExpression = num1 + op1 + op2 + num2;
                     break;
                 case 2: // Incomplete function call.
